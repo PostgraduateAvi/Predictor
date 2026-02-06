@@ -1,0 +1,226 @@
+{
+  "year": 2023,
+  "paper_id": 1,
+  "questions": [
+    {
+      "q_id": "ad89153e9c06",
+      "raw_text": "Draw the course of recurrent laryngeal nerve and write a note on its applied anatomy",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM38041;TERM30255;TERM19166;TERM39447;TERM42829",
+      "harrison_tag_terms": "recurrent;recurrent;recurrent;recurrent;recurrent",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "be4e8914fdb7",
+      "raw_text": "Calcium metabolism and kidney",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM32454;TERM06128;TERM22607;TERM26825;TERM03833",
+      "harrison_tag_terms": "metabolism;metabolism in;metabolism of;metabolism of;metabolism of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "89958d834e83",
+      "raw_text": "Bilirubin metabolism",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM42617;TERM04809;TERM24460;TERM42757;TERM24443",
+      "harrison_tag_terms": "in bilirubin metabolism;Bilirubin;urine bilirubin;Urine bilirubin;serum bilirubin",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "ffc5d996ad23",
+      "raw_text": "Angiotensin Receptor-Neprilysin Inhibitors",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM28821;TERM28818;TERM29302;TERM13788;TERM43160",
+      "harrison_tag_terms": "Neprilysin inhibitors;Neprilysin;inhibitors;inhibitors;inhibitors",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "903dfeb8e875",
+      "raw_text": "Severe combined immunodeficiency",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM40209;TERM10805;TERM21547;TERM16363;TERM18428",
+      "harrison_tag_terms": "in severe combined immunodeficiency;immunodeficiency, S;Immunodeficiency viruses;for immunodeficiency disorders;for immunodeficiency disorders",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "e44c8f9ab351",
+      "raw_text": "Role of lymphnode biopsy in clinical medicine",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM25075;TERM25901;TERM16331;TERM40399;TERM31118",
+      "harrison_tag_terms": "Lymph node biopsy;Medicine;applications in clinical medicine;biopsy of;biopsy of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "70dfe6107963",
+      "raw_text": "Thiamine deficiency",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM00987;TERM40828;TERM02894;TERM19921;TERM21193",
+      "harrison_tag_terms": "thiamine deficiency in;Thiamine (vitamin B1) deficiency;deficiency;deficiency;deficiency",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "ae6fc0456a5c",
+      "raw_text": "Mediterranean diet",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM25920;TERM14894;TERM16752;TERM19188;TERM22302",
+      "harrison_tag_terms": "Mediterranean lymphoma;Familial Mediterranean fever;familial Mediterranean fever;familial Mediterranean fever;in familial Mediterranean fever",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "490dc5bf8017",
+      "raw_text": "Renal tubular acidosis",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM36132;TERM32695;TERM26596;TERM10464;TERM27592",
+      "harrison_tag_terms": "Renal tubular defects;renal tubular transport of;acidosis in;renal tubular obstruction by, 2359\u2013;tubular damage",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "a7dac2f5ebd4",
+      "raw_text": "Drug induced dyselectrolytemia",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM31151;TERM13171;TERM15515;TERM43611;TERM18932",
+      "harrison_tag_terms": "water and electrolyte content of;Electrolyte disturbances;electrolyte disturbances;drug-induced;drug-induced",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "195be7cd6d47",
+      "raw_text": "Describe Bilirubin metabolism in detail and write about the disorders that lead to unconjugated Hyperbilirubinemia.",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM16529;TERM42617;TERM18640;TERM37973;TERM01846",
+      "harrison_tag_terms": "unconjugated bilirubin in;in bilirubin metabolism;hyperbilirubinemia and;hyperbilirubinemia in;hyperbilirubinemia",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "05da12e81a49",
+      "raw_text": "Discuss clinical features, causes, and management of Hypernatremia.",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM20503;TERM29989;TERM11879;TERM20519;TERM11445",
+      "harrison_tag_terms": "Hypernatremia;hypernatremia in;hypernatremia in;hypernatremia in;for hypernatremia",
+      "templates_str": "management;clinical_features"
+    },
+    {
+      "q_id": "52715e65dfd0",
+      "raw_text": "Discuss deficiencies and toxicities of calcium and copper and their treatment",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM09542;TERM26996;TERM43820;TERM27007;TERM20958",
+      "harrison_tag_terms": "deficiencies of;deficiencies of;deficiencies of;toxicities of;hormone deficiencies and",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "5a2f541480c0",
+      "raw_text": "Discuss in detail about High anion gap metabolic acidosis.",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM11796;TERM20279;TERM26516;TERM00016;TERM04608",
+      "harrison_tag_terms": "metabolic acidosis in;metabolic acidosis in;Metabolic acidosis;metabolic acidosis;for metabolic acidosis",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "e16fcee2708e",
+      "raw_text": "Development of Heart",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM28658;TERM26994;TERM25253;TERM30715;TERM37974",
+      "harrison_tag_terms": "development of;development of;development of;development of;development of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "fbe6374da967",
+      "raw_text": "Pathophysiology of Hepatic Encephalopathy",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM18789;TERM28814;TERM36597;TERM26930;TERM25373",
+      "harrison_tag_terms": "Hepatic encephalopathy;for hepatic encephalopathy;for hepatic encephalopathy;for hepatic encephalopathy;hepatic encephalopathy, A",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "1e96903b2e14",
+      "raw_text": "Autosomal dominant disorders",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM33286;TERM24212;TERM36051;TERM20396;TERM26086",
+      "harrison_tag_terms": "autosomal dominant;autosomal dominant;autosomal dominant;autosomal dominant;autosomal dominant",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "f6e7ddef129f",
+      "raw_text": "Tissue Engineering",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM09035;TERM37186;TERM13673;TERM38610;TERM34642",
+      "harrison_tag_terms": "engineered;soft tissue;soft tissue;Soft tissue;blood and tissue",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "626b03be537c",
+      "raw_text": "Discuss nutrition in critically ill patients",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM39361;TERM01921;TERM37539;TERM39194;TERM29042",
+      "harrison_tag_terms": "in critically ill patient;in critically ill patient;in critically ill patient;in critically ill patient;in critically ill patient",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "cc1055ed7b4a",
+      "raw_text": "Syndrome X",
+      "year": 2023,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM39879;TERM20603;TERM19925;TERM34298;TERM28407",
+      "harrison_tag_terms": "Syndrome X;syndrome;syndrome;syndrome;syndrome",
+      "templates_str": "general_essay"
+    }
+  ]
+}

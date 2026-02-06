@@ -1,0 +1,226 @@
+{
+  "year": 2023,
+  "paper_id": 4,
+  "questions": [
+    {
+      "q_id": "fe8824882707",
+      "raw_text": "ESC guidelines 2022 for hypertension",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM09597;TERM28986;TERM09731;TERM34484;TERM33844",
+      "harrison_tag_terms": "guidelines for;guidelines for;care guidelines for;for hypertension;for hypertension",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "6fd4008f0767",
+      "raw_text": "ADA guidelines 2023 for Diabetes Mellitus",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM14612;TERM38517;TERM29815;TERM44333;TERM16683",
+      "harrison_tag_terms": "for diabetes mellitus;for diabetes mellitus;for diabetes mellitus;diabetes mellitus;diabetes mellitus",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "06e1b52bafcf",
+      "raw_text": "Bembedoic acid",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM04376;TERM24257;TERM34095;TERM28815;TERM28731",
+      "harrison_tag_terms": "Bempedoic acid;Lipoic acid;retinoic acid in;uric acid;uric acid",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "f43f15b85cea",
+      "raw_text": "Nintedanib",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM29413",
+      "harrison_tag_terms": "Nintedanib",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "7d6eccb5db13",
+      "raw_text": "Emerging therapeutic strategies in septic shock",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM16145;TERM09350;TERM21186;TERM05610;TERM05255",
+      "harrison_tag_terms": "therapeutic;therapeutic;therapeutic;therapeutic;therapeutic",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "d671c078e0b0",
+      "raw_text": "Newer diagnostic tests for Alzheimer\u2019s disease",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM01396;TERM11758;TERM25504;TERM22818;TERM20297",
+      "harrison_tag_terms": "Alzheimer\u2019s disease (AD);Diagnostic tests;diagnostic;diagnostic criteria for;diagnostic markers of",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "d566f0998aba",
+      "raw_text": "Public health surveillance",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM18114;TERM21726;TERM34496;TERM21677;TERM12905",
+      "harrison_tag_terms": "surveillance;surveillance by;vs. active surveillance, 205\u2013;public health implications of;health and",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "5872b185bd2f",
+      "raw_text": "Internet addiction",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM25861;TERM06136;TERM30331;TERM31428;TERM34212",
+      "harrison_tag_terms": "Internet and, 6\u2013;oncogene addiction in;Oncogene addiction;Internet use by, 6\u2013;mental health and addiction screening in",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "a669c09c1122",
+      "raw_text": "Area under curve (AUC)",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM02654;TERM27185;TERM06533;TERM32357",
+      "harrison_tag_terms": "valve area;valve area;valve area;Phase response curve (PRC)",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "fa166bb294c9",
+      "raw_text": "Novel biomarkers in kidney diseases",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM18081;TERM39400;TERM00242;TERM42251;TERM13061",
+      "harrison_tag_terms": "biomarkers;biomarkers;biomarkers;biomarkers;in kidney disease",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "b55b54305d53",
+      "raw_text": "Describe applications of Stem Cells in Clinical Medicine.",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM16331;TERM07441;TERM25154;TERM29691;TERM41703",
+      "harrison_tag_terms": "applications in clinical medicine;clinical applications of;applications to clinical medicine, 3829\u2013;applications, S;in stem cells",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "a5a88f8ab55a",
+      "raw_text": "Describe non-invasive modalities for diagnosis of coronary artery disease with special reference to nuclear imaging.",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM06532;TERM39188;TERM06741;TERM09877;TERM35614",
+      "harrison_tag_terms": "coronary artery disease and;coronary artery;coronary artery;Coronary artery disease (CAD);modalities of, 531\u2013",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "06be625dae72",
+      "raw_text": "Monoclonal antibodies in Medicine",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM34444;TERM43148;TERM42450;TERM10498;TERM34429",
+      "harrison_tag_terms": "monoclonal antibodies and;monoclonal antibodies targeting;monoclonal antibodies targeting;monoclonal;anti-CD20 monoclonal antibodies and, 3470\u2013",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "1d9cf01f527f",
+      "raw_text": "MELD Na Score",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM24575;TERM18240;TERM24536;TERM24196;TERM13021",
+      "harrison_tag_terms": "MELD score and;HEART score;Lod score;Lille score;EDACS score",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "1f90ddb1185f",
+      "raw_text": "Pathophysiology, clinical features and management of sleep disorders.",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM20267;TERM02693;TERM39867;TERM14183;TERM28547",
+      "harrison_tag_terms": "clinical features of, S;pathophysiology of;pathophysiology of;pathophysiology of;pathophysiology of",
+      "templates_str": "management;clinical_features"
+    },
+    {
+      "q_id": "3130f7fd3381",
+      "raw_text": "Bronchoscopic Lung Volume reduction",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM08566;TERM22435;TERM25057;TERM08571;TERM36181",
+      "harrison_tag_terms": "bronchoscopic lung volume reduction;lung volume reduction;Lung volume reduction surgery;lung volume reduction surgery;bronchoscopy",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "35023939d17b",
+      "raw_text": "Microbial Bioterrorism",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM26931;TERM38299;TERM43705;TERM42323;TERM02183",
+      "harrison_tag_terms": "Microbial bioterrorism, 1136, S3, S;in bioterrorism, S;in bioterrorism, S;in bioterrorism, S;in bioterrorism, S",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "0f5243704e39",
+      "raw_text": "Pharmacological management of obesity",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM05367;TERM32064;TERM13074;TERM42003;TERM31490",
+      "harrison_tag_terms": "pharmacologic;pharmacologic;pharmacologic;pharmacology of;pharmacology of",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "0e4873801aaf",
+      "raw_text": "Newer insulins",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM22087;TERM29028;TERM15481;TERM12439;TERM14497",
+      "harrison_tag_terms": "Insulin;insulinoma;for insulinoma;for insulinoma;for insulinoma",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "308923250a69",
+      "raw_text": "Rivaroxaban",
+      "year": 2023,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "",
+      "harrison_tag_terms": "",
+      "templates_str": "general_essay"
+    }
+  ]
+}

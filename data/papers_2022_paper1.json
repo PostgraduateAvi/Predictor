@@ -1,0 +1,116 @@
+{
+  "year": 2022,
+  "paper_id": 1,
+  "questions": [
+    {
+      "q_id": "d1cd92abc7e2",
+      "raw_text": "Trace the course of facial nerve and write brief notes on the applied anatomical aspects of each part.",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM27707;TERM39834;TERM29084;TERM19267;TERM17788",
+      "harrison_tag_terms": "course of;course of;course of;course of;facial nerve disorders",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "ff49a8f11fed",
+      "raw_text": "Explain the applied physiology of thyroid hormone synthesis in detail.",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM22166;TERM10859;TERM41654;TERM11931;TERM40557",
+      "harrison_tag_terms": "in thyroid hormone synthesis;in thyroid hormone synthesis;in thyroid hormone synthesis;synthesis of;synthesis of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "90aef03d808c",
+      "raw_text": "Calcium metabolism",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM32454;TERM06128;TERM02890;TERM10703;TERM12036",
+      "harrison_tag_terms": "metabolism;metabolism in;metabolism of;metabolism of;metabolism of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "37b9ee2a5dbc",
+      "raw_text": "SGLT2 inhibitors",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM13788;TERM43160;TERM29302;TERM20801;TERM29623",
+      "harrison_tag_terms": "inhibitors;inhibitors;inhibitors;ACE inhibitors;ACE inhibitors",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "ba4be07b2939",
+      "raw_text": "Life cycle of Falciparum malaria",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM44473;TERM35960;TERM13573;TERM05122;TERM08839",
+      "harrison_tag_terms": "life cycle of;life cycle of;life cycle of;malaria;malaria",
+      "templates_str": "life_cycle"
+    },
+    {
+      "q_id": "49de33379bf5",
+      "raw_text": "Role of bone marrow studies in the evaluation of anemia",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM41345;TERM12202;TERM20717;TERM05335;TERM28165",
+      "harrison_tag_terms": "in anemia evaluation;evaluation of;evaluation of;evaluation of;evaluation of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "997458c0224f",
+      "raw_text": "Medical nutritional therapy for kidney disorders",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM11598;TERM22063;TERM21992;TERM23183;TERM38495",
+      "harrison_tag_terms": "nutrition therapy in;in medical disorders;nutritional therapies;Kidney;kidney",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "8dac91d01534",
+      "raw_text": "Cachexia",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM05786;TERM06497;TERM05784;TERM05781",
+      "harrison_tag_terms": "Cachexia;Cardiac cachexia;Cache valley virus;Cachectic myopathy",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "e9064d258f3d",
+      "raw_text": "Periodic paralysis",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM00093;TERM33760;TERM26823;TERM00090;TERM41374",
+      "harrison_tag_terms": "for hypokalemic periodic paralysis;for hypokalemic periodic paralysis;for hyperkalemic periodic paralysis;for hyperkalemic periodic paralysis;paralysis of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "2baccb99c25c",
+      "raw_text": "Drug induced dyselectrolytemia",
+      "year": 2022,
+      "paper_id": 1,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM31151;TERM13171;TERM15515;TERM43611;TERM18932",
+      "harrison_tag_terms": "water and electrolyte content of;Electrolyte disturbances;electrolyte disturbances;drug-induced;drug-induced",
+      "templates_str": "general_essay"
+    }
+  ]
+}

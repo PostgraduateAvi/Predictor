@@ -1,0 +1,116 @@
+{
+  "year": 2024,
+  "paper_id": 4,
+  "questions": [
+    {
+      "q_id": "0da16bdb092f",
+      "raw_text": "Describe the pathology, prognostic scoring system and management of Alcoholic Hepatitis",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM28475;TERM23269;TERM28479;TERM22905;TERM36558",
+      "harrison_tag_terms": "in alcoholism management;alcoholic;alcoholic;monitoring and management of;monitoring and management of",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "7a2092d2a1fa",
+      "raw_text": "Describe the role of SGLT2 Inhibitors in medicine; add a note on CVOT Trials",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM29302;TERM43160;TERM13788;TERM20801;TERM39725",
+      "harrison_tag_terms": "inhibitors;inhibitors;inhibitors;ACE inhibitors;ACE inhibitors",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "5d978ad87dbb",
+      "raw_text": "Describe the management strategies in a patient with atrial fibrillation",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM41550;TERM39637;TERM02237;TERM01585;TERM05899",
+      "harrison_tag_terms": "in atrial fibrillation;atrial fibrillation;for atrial fibrillation;for atrial fibrillation;for atrial fibrillation",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "f2bf6091ea37",
+      "raw_text": "Describe bone marrow transplantation; enumerate the indications and complications",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM05083;TERM24512;TERM09985;TERM37751;TERM32332",
+      "harrison_tag_terms": "Bone marrow transplantation;complications of;complications of;complications of;complications of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "d0cd205d8c10",
+      "raw_text": "Describe the glycemic variability and its role in management of diabetes mellitus",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM26433;TERM31232;TERM16192;TERM18605;TERM38911",
+      "harrison_tag_terms": "diabetes mellitus and;diabetes mellitus and;in diabetes mellitus;in diabetes mellitus;in diabetes mellitus",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "5267900efd89",
+      "raw_text": "Hypertensive arteriolar sclerosis",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM36442;TERM13288;TERM36003;TERM28734;TERM03176",
+      "harrison_tag_terms": "hypertensive;hypertensive;hypertensive nephrosclerosis;Nephrosclerosis, hypertensive;Arteriolosclerosis",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "10dfa1187ac7",
+      "raw_text": "Mucormycosis",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM36227;TERM27570;TERM33534;TERM38029;TERM09614",
+      "harrison_tag_terms": "mucormycosis;Mucormycosis;for mucormycosis;mucormycosis, A;mucormycosis, A",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "f3350c854eb3",
+      "raw_text": "Revised Jones criteria in rheumatic fever",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM23060;TERM18170;TERM42455;TERM07972;TERM16836",
+      "harrison_tag_terms": "Jones criteria;in rheumatic fever;in rheumatic fever;rheumatic fever in;rheumatic fever",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "47630fdc27e6",
+      "raw_text": "Neuropsychiatric sequelae of COVID-19",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM27105;TERM04161;TERM44388;TERM04054;TERM22105",
+      "harrison_tag_terms": "neuropsychiatric illnesses in, S;sequelae of;psychiatric;psychiatric;COVID-19 and",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "e092dc678584",
+      "raw_text": "Assessment of glomerular filtration",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM35971;TERM02113;TERM02233;TERM08381;TERM23199",
+      "harrison_tag_terms": "in glomerular filtration rate regulation;in glomerular filtration rate regulation;in glomerular filtration rate regulation;glomerular filtration rate in, 331\u2013;glomerular",
+      "templates_str": "general_essay"
+    }
+  ]
+}

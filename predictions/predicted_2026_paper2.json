@@ -1,0 +1,668 @@
+{
+  "paper_id": 2,
+  "generated_at": "2026-02-06T04:51:19.218185+00:00",
+  "high_confidence": [
+    {
+      "topic_id": "DOMAIN:GENERAL_MISC",
+      "confidence": 8.55,
+      "backup_questions": [
+        "Define and classify DOMAIN:GENERAL_MISC.",
+        "Discuss the clinical features and management of DOMAIN:GENERAL_MISC.",
+        "Approach to diagnosis of DOMAIN:GENERAL_MISC.",
+        "Complications and monitoring in DOMAIN:GENERAL_MISC.",
+        "Outline the pathophysiology and treatment of DOMAIN:GENERAL_MISC."
+      ]
+    },
+    {
+      "topic_id": "TERM10108",
+      "confidence": 4.8,
+      "backup_questions": [
+        "Define and classify discussion with patients.",
+        "Discuss the clinical features and management of discussion with patients.",
+        "Approach to diagnosis of discussion with patients.",
+        "Complications and monitoring in discussion with patients.",
+        "Outline the pathophysiology and treatment of discussion with patients."
+      ]
+    },
+    {
+      "topic_id": "TERM06064",
+      "confidence": 3.2,
+      "backup_questions": [
+        "Define and classify patient management in.",
+        "Discuss the clinical features and management of patient management in.",
+        "Approach to diagnosis of patient management in.",
+        "Complications and monitoring in patient management in.",
+        "Outline the pathophysiology and treatment of patient management in."
+      ]
+    },
+    {
+      "topic_id": "TERM34522",
+      "confidence": 2.4,
+      "backup_questions": [
+        "Define and classify pain management.",
+        "Discuss the clinical features and management of pain management.",
+        "Approach to diagnosis of pain management.",
+        "Complications and monitoring in pain management.",
+        "Outline the pathophysiology and treatment of pain management."
+      ]
+    },
+    {
+      "topic_id": "TERM10103",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify COVID-19 vaccines.",
+        "Discuss the clinical features and management of COVID-19 vaccines.",
+        "Approach to diagnosis of COVID-19 vaccines.",
+        "Complications and monitoring in COVID-19 vaccines.",
+        "Outline the pathophysiology and treatment of COVID-19 vaccines."
+      ]
+    },
+    {
+      "topic_id": "TERM22105",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify COVID-19 and.",
+        "Discuss the clinical features and management of COVID-19 and.",
+        "Approach to diagnosis of COVID-19 and.",
+        "Complications and monitoring in COVID-19 and.",
+        "Outline the pathophysiology and treatment of COVID-19 and."
+      ]
+    },
+    {
+      "topic_id": "TERM10036",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify COVID-19 disease.",
+        "Discuss the clinical features and management of COVID-19 disease.",
+        "Approach to diagnosis of COVID-19 disease.",
+        "Complications and monitoring in COVID-19 disease.",
+        "Outline the pathophysiology and treatment of COVID-19 disease."
+      ]
+    },
+    {
+      "topic_id": "TERM10104",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify COVID-19 disease.",
+        "Discuss the clinical features and management of COVID-19 disease.",
+        "Approach to diagnosis of COVID-19 disease.",
+        "Complications and monitoring in COVID-19 disease.",
+        "Outline the pathophysiology and treatment of COVID-19 disease."
+      ]
+    },
+    {
+      "topic_id": "TERM17617",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify in COVID-19 disease.",
+        "Discuss the clinical features and management of in COVID-19 disease.",
+        "Approach to diagnosis of in COVID-19 disease.",
+        "Complications and monitoring in in COVID-19 disease.",
+        "Outline the pathophysiology and treatment of in COVID-19 disease."
+      ]
+    },
+    {
+      "topic_id": "TERM02527",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Antimicrobial stewardship, 248, 250, 1135\u2013.",
+        "Discuss the clinical features and management of Antimicrobial stewardship, 248, 250, 1135\u2013.",
+        "Approach to diagnosis of Antimicrobial stewardship, 248, 250, 1135\u2013.",
+        "Complications and monitoring in Antimicrobial stewardship, 248, 250, 1135\u2013.",
+        "Outline the pathophysiology and treatment of Antimicrobial stewardship, 248, 250, 1135\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM15294",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify for cryptococcal meningitis.",
+        "Discuss the clinical features and management of for cryptococcal meningitis.",
+        "Approach to diagnosis of for cryptococcal meningitis.",
+        "Complications and monitoring in for cryptococcal meningitis.",
+        "Outline the pathophysiology and treatment of for cryptococcal meningitis."
+      ]
+    },
+    {
+      "topic_id": "TERM06924",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Catheter-associated urinary tract infections.",
+        "Discuss the clinical features and management of Catheter-associated urinary tract infections.",
+        "Approach to diagnosis of Catheter-associated urinary tract infections.",
+        "Complications and monitoring in Catheter-associated urinary tract infections.",
+        "Outline the pathophysiology and treatment of Catheter-associated urinary tract infections."
+      ]
+    },
+    {
+      "topic_id": "TERM10265",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify sepsis in.",
+        "Discuss the clinical features and management of sepsis in.",
+        "Approach to diagnosis of sepsis in.",
+        "Complications and monitoring in sepsis in.",
+        "Outline the pathophysiology and treatment of sepsis in."
+      ]
+    },
+    {
+      "topic_id": "TERM11303",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Dengue viruses.",
+        "Discuss the clinical features and management of Dengue viruses.",
+        "Approach to diagnosis of Dengue viruses.",
+        "Complications and monitoring in Dengue viruses.",
+        "Outline the pathophysiology and treatment of Dengue viruses."
+      ]
+    },
+    {
+      "topic_id": "TERM38855",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify undifferentiated.",
+        "Discuss the clinical features and management of undifferentiated.",
+        "Approach to diagnosis of undifferentiated.",
+        "Complications and monitoring in undifferentiated.",
+        "Outline the pathophysiology and treatment of undifferentiated."
+      ]
+    },
+    {
+      "topic_id": "TERM37875",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify undifferentiated.",
+        "Discuss the clinical features and management of undifferentiated.",
+        "Approach to diagnosis of undifferentiated.",
+        "Complications and monitoring in undifferentiated.",
+        "Outline the pathophysiology and treatment of undifferentiated."
+      ]
+    },
+    {
+      "topic_id": "TERM18527",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify differentiation of.",
+        "Discuss the clinical features and management of differentiation of.",
+        "Approach to diagnosis of differentiation of.",
+        "Complications and monitoring in differentiation of.",
+        "Outline the pathophysiology and treatment of differentiation of."
+      ]
+    },
+    {
+      "topic_id": "TERM04413",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify differentiation of.",
+        "Discuss the clinical features and management of differentiation of.",
+        "Approach to diagnosis of differentiation of.",
+        "Complications and monitoring in differentiation of.",
+        "Outline the pathophysiology and treatment of differentiation of."
+      ]
+    },
+    {
+      "topic_id": "TERM42551",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Undifferentiated pleomorphic sarcoma.",
+        "Discuss the clinical features and management of Undifferentiated pleomorphic sarcoma.",
+        "Approach to diagnosis of Undifferentiated pleomorphic sarcoma.",
+        "Complications and monitoring in Undifferentiated pleomorphic sarcoma.",
+        "Outline the pathophysiology and treatment of Undifferentiated pleomorphic sarcoma."
+      ]
+    },
+    {
+      "topic_id": "TERM19090",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify in patients with cirrhosis.",
+        "Discuss the clinical features and management of in patients with cirrhosis.",
+        "Approach to diagnosis of in patients with cirrhosis.",
+        "Complications and monitoring in in patients with cirrhosis.",
+        "Outline the pathophysiology and treatment of in patients with cirrhosis."
+      ]
+    },
+    {
+      "topic_id": "TERM19044",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify HBV infection with.",
+        "Discuss the clinical features and management of HBV infection with.",
+        "Approach to diagnosis of HBV infection with.",
+        "Complications and monitoring in HBV infection with.",
+        "Outline the pathophysiology and treatment of HBV infection with."
+      ]
+    },
+    {
+      "topic_id": "TERM10816",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify chronic management.",
+        "Discuss the clinical features and management of chronic management.",
+        "Approach to diagnosis of chronic management.",
+        "Complications and monitoring in chronic management.",
+        "Outline the pathophysiology and treatment of chronic management."
+      ]
+    },
+    {
+      "topic_id": "DOMAIN:INFECTIOUS_DISEASES",
+      "confidence": 1.45,
+      "backup_questions": [
+        "Define and classify DOMAIN:INFECTIOUS_DISEASES.",
+        "Discuss the clinical features and management of DOMAIN:INFECTIOUS_DISEASES.",
+        "Approach to diagnosis of DOMAIN:INFECTIOUS_DISEASES.",
+        "Complications and monitoring in DOMAIN:INFECTIOUS_DISEASES.",
+        "Outline the pathophysiology and treatment of DOMAIN:INFECTIOUS_DISEASES."
+      ]
+    },
+    {
+      "topic_id": "TERM11570",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify treatment and management of.",
+        "Discuss the clinical features and management of treatment and management of.",
+        "Approach to diagnosis of treatment and management of.",
+        "Complications and monitoring in treatment and management of.",
+        "Outline the pathophysiology and treatment of treatment and management of."
+      ]
+    },
+    {
+      "topic_id": "TERM11667",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify treatment and management of.",
+        "Discuss the clinical features and management of treatment and management of.",
+        "Approach to diagnosis of treatment and management of.",
+        "Complications and monitoring in treatment and management of.",
+        "Outline the pathophysiology and treatment of treatment and management of."
+      ]
+    },
+    {
+      "topic_id": "TERM11743",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify treatment and management of.",
+        "Discuss the clinical features and management of treatment and management of.",
+        "Approach to diagnosis of treatment and management of.",
+        "Complications and monitoring in treatment and management of.",
+        "Outline the pathophysiology and treatment of treatment and management of."
+      ]
+    },
+    {
+      "topic_id": "TERM01069",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify acetaminophen toxicity in.",
+        "Discuss the clinical features and management of acetaminophen toxicity in.",
+        "Approach to diagnosis of acetaminophen toxicity in.",
+        "Complications and monitoring in acetaminophen toxicity in.",
+        "Outline the pathophysiology and treatment of acetaminophen toxicity in."
+      ]
+    },
+    {
+      "topic_id": "TERM00938",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify acetaminophen toxicity and.",
+        "Discuss the clinical features and management of acetaminophen toxicity and.",
+        "Approach to diagnosis of acetaminophen toxicity and.",
+        "Complications and monitoring in acetaminophen toxicity and.",
+        "Outline the pathophysiology and treatment of acetaminophen toxicity and."
+      ]
+    },
+    {
+      "topic_id": "TERM32427",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify acetaminophen.",
+        "Discuss the clinical features and management of acetaminophen.",
+        "Approach to diagnosis of acetaminophen.",
+        "Complications and monitoring in acetaminophen.",
+        "Outline the pathophysiology and treatment of acetaminophen."
+      ]
+    },
+    {
+      "topic_id": "TERM30507",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify acetaminophen.",
+        "Discuss the clinical features and management of acetaminophen.",
+        "Approach to diagnosis of acetaminophen.",
+        "Complications and monitoring in acetaminophen.",
+        "Outline the pathophysiology and treatment of acetaminophen."
+      ]
+    }
+  ],
+  "coverage_backup": [
+    {
+      "topic_id": "TERM24440",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify acetaminophen in.",
+        "Discuss the clinical features and management of acetaminophen in.",
+        "Approach to diagnosis of acetaminophen in.",
+        "Complications and monitoring in acetaminophen in.",
+        "Outline the pathophysiology and treatment of acetaminophen in."
+      ]
+    },
+    {
+      "topic_id": "TERM33235",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Poikiloderma.",
+        "Discuss the clinical features and management of Poikiloderma.",
+        "Approach to diagnosis of Poikiloderma.",
+        "Complications and monitoring in Poikiloderma.",
+        "Outline the pathophysiology and treatment of Poikiloderma."
+      ]
+    },
+    {
+      "topic_id": "TERM37421",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Scleroderma.",
+        "Discuss the clinical features and management of Scleroderma.",
+        "Approach to diagnosis of Scleroderma.",
+        "Complications and monitoring in Scleroderma.",
+        "Outline the pathophysiology and treatment of Scleroderma."
+      ]
+    },
+    {
+      "topic_id": "TERM35302",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Pyoderma.",
+        "Discuss the clinical features and management of Pyoderma.",
+        "Approach to diagnosis of Pyoderma.",
+        "Complications and monitoring in Pyoderma.",
+        "Outline the pathophysiology and treatment of Pyoderma."
+      ]
+    },
+    {
+      "topic_id": "TERM26023",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify leukoderma in.",
+        "Discuss the clinical features and management of leukoderma in.",
+        "Approach to diagnosis of leukoderma in.",
+        "Complications and monitoring in leukoderma in.",
+        "Outline the pathophysiology and treatment of leukoderma in."
+      ]
+    },
+    {
+      "topic_id": "TERM12509",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify erythroderma.",
+        "Discuss the clinical features and management of erythroderma.",
+        "Approach to diagnosis of erythroderma.",
+        "Complications and monitoring in erythroderma.",
+        "Outline the pathophysiology and treatment of erythroderma."
+      ]
+    },
+    {
+      "topic_id": "TERM26250",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify prophylaxis for exposure to.",
+        "Discuss the clinical features and management of prophylaxis for exposure to.",
+        "Approach to diagnosis of prophylaxis for exposure to.",
+        "Complications and monitoring in prophylaxis for exposure to.",
+        "Outline the pathophysiology and treatment of prophylaxis for exposure to."
+      ]
+    },
+    {
+      "topic_id": "TERM19130",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for postexposure prophylaxis.",
+        "Discuss the clinical features and management of for postexposure prophylaxis.",
+        "Approach to diagnosis of for postexposure prophylaxis.",
+        "Complications and monitoring in for postexposure prophylaxis.",
+        "Outline the pathophysiology and treatment of for postexposure prophylaxis."
+      ]
+    },
+    {
+      "topic_id": "TERM23909",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify postexposure prophylaxis for.",
+        "Discuss the clinical features and management of postexposure prophylaxis for.",
+        "Approach to diagnosis of postexposure prophylaxis for.",
+        "Complications and monitoring in postexposure prophylaxis for.",
+        "Outline the pathophysiology and treatment of postexposure prophylaxis for."
+      ]
+    },
+    {
+      "topic_id": "TERM35531",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify postexposure prophylaxis for.",
+        "Discuss the clinical features and management of postexposure prophylaxis for.",
+        "Approach to diagnosis of postexposure prophylaxis for.",
+        "Complications and monitoring in postexposure prophylaxis for.",
+        "Outline the pathophysiology and treatment of postexposure prophylaxis for."
+      ]
+    },
+    {
+      "topic_id": "TERM18817",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify postexposure prophylaxis for.",
+        "Discuss the clinical features and management of postexposure prophylaxis for.",
+        "Approach to diagnosis of postexposure prophylaxis for.",
+        "Complications and monitoring in postexposure prophylaxis for.",
+        "Outline the pathophysiology and treatment of postexposure prophylaxis for."
+      ]
+    },
+    {
+      "topic_id": "TERM03475",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Asymptomatic bacteriuria.",
+        "Discuss the clinical features and management of Asymptomatic bacteriuria.",
+        "Approach to diagnosis of Asymptomatic bacteriuria.",
+        "Complications and monitoring in Asymptomatic bacteriuria.",
+        "Outline the pathophysiology and treatment of Asymptomatic bacteriuria."
+      ]
+    },
+    {
+      "topic_id": "TERM42840",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify asymptomatic bacteriuria.",
+        "Discuss the clinical features and management of asymptomatic bacteriuria.",
+        "Approach to diagnosis of asymptomatic bacteriuria.",
+        "Complications and monitoring in asymptomatic bacteriuria.",
+        "Outline the pathophysiology and treatment of asymptomatic bacteriuria."
+      ]
+    },
+    {
+      "topic_id": "TERM34030",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify asymptomatic bacteriuria in.",
+        "Discuss the clinical features and management of asymptomatic bacteriuria in.",
+        "Approach to diagnosis of asymptomatic bacteriuria in.",
+        "Complications and monitoring in asymptomatic bacteriuria in.",
+        "Outline the pathophysiology and treatment of asymptomatic bacteriuria in."
+      ]
+    },
+    {
+      "topic_id": "TERM20559",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify asymptomatic.",
+        "Discuss the clinical features and management of asymptomatic.",
+        "Approach to diagnosis of asymptomatic.",
+        "Complications and monitoring in asymptomatic.",
+        "Outline the pathophysiology and treatment of asymptomatic."
+      ]
+    },
+    {
+      "topic_id": "TERM15901",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify asymptomatic.",
+        "Discuss the clinical features and management of asymptomatic.",
+        "Approach to diagnosis of asymptomatic.",
+        "Complications and monitoring in asymptomatic.",
+        "Outline the pathophysiology and treatment of asymptomatic."
+      ]
+    },
+    {
+      "topic_id": "TERM20242",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Hydatid disease.",
+        "Discuss the clinical features and management of Hydatid disease.",
+        "Approach to diagnosis of Hydatid disease.",
+        "Complications and monitoring in Hydatid disease.",
+        "Outline the pathophysiology and treatment of Hydatid disease."
+      ]
+    },
+    {
+      "topic_id": "TERM19205",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disease.",
+        "Discuss the clinical features and management of disease.",
+        "Approach to diagnosis of disease.",
+        "Complications and monitoring in disease.",
+        "Outline the pathophysiology and treatment of disease."
+      ]
+    },
+    {
+      "topic_id": "TERM25723",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disease.",
+        "Discuss the clinical features and management of disease.",
+        "Approach to diagnosis of disease.",
+        "Complications and monitoring in disease.",
+        "Outline the pathophysiology and treatment of disease."
+      ]
+    },
+    {
+      "topic_id": "TERM12572",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disease.",
+        "Discuss the clinical features and management of disease.",
+        "Approach to diagnosis of disease.",
+        "Complications and monitoring in disease.",
+        "Outline the pathophysiology and treatment of disease."
+      ]
+    },
+    {
+      "topic_id": "TERM31995",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disease.",
+        "Discuss the clinical features and management of disease.",
+        "Approach to diagnosis of disease.",
+        "Complications and monitoring in disease.",
+        "Outline the pathophysiology and treatment of disease."
+      ]
+    },
+    {
+      "topic_id": "TERM37369",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Scrub typhus.",
+        "Discuss the clinical features and management of Scrub typhus.",
+        "Approach to diagnosis of Scrub typhus.",
+        "Complications and monitoring in Scrub typhus.",
+        "Outline the pathophysiology and treatment of Scrub typhus."
+      ]
+    },
+    {
+      "topic_id": "TERM36697",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify scrub typhus.",
+        "Discuss the clinical features and management of scrub typhus.",
+        "Approach to diagnosis of scrub typhus.",
+        "Complications and monitoring in scrub typhus.",
+        "Outline the pathophysiology and treatment of scrub typhus."
+      ]
+    },
+    {
+      "topic_id": "TERM14250",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in scrub typhus.",
+        "Discuss the clinical features and management of in scrub typhus.",
+        "Approach to diagnosis of in scrub typhus.",
+        "Complications and monitoring in in scrub typhus.",
+        "Outline the pathophysiology and treatment of in scrub typhus."
+      ]
+    },
+    {
+      "topic_id": "TERM08037",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for scrub typhus.",
+        "Discuss the clinical features and management of for scrub typhus.",
+        "Approach to diagnosis of for scrub typhus.",
+        "Complications and monitoring in for scrub typhus.",
+        "Outline the pathophysiology and treatment of for scrub typhus."
+      ]
+    },
+    {
+      "topic_id": "TERM12608",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for scrub typhus.",
+        "Discuss the clinical features and management of for scrub typhus.",
+        "Approach to diagnosis of for scrub typhus.",
+        "Complications and monitoring in for scrub typhus.",
+        "Outline the pathophysiology and treatment of for scrub typhus."
+      ]
+    },
+    {
+      "topic_id": "TERM02387",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify stewardship of, 248, 250, 1135\u20131136, 1162\u2013.",
+        "Discuss the clinical features and management of stewardship of, 248, 250, 1135\u20131136, 1162\u2013.",
+        "Approach to diagnosis of stewardship of, 248, 250, 1135\u20131136, 1162\u2013.",
+        "Complications and monitoring in stewardship of, 248, 250, 1135\u20131136, 1162\u2013.",
+        "Outline the pathophysiology and treatment of stewardship of, 248, 250, 1135\u20131136, 1162\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM37855",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify antibiotics.",
+        "Discuss the clinical features and management of antibiotics.",
+        "Approach to diagnosis of antibiotics.",
+        "Complications and monitoring in antibiotics.",
+        "Outline the pathophysiology and treatment of antibiotics."
+      ]
+    },
+    {
+      "topic_id": "TERM21965",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify antibiotics.",
+        "Discuss the clinical features and management of antibiotics.",
+        "Approach to diagnosis of antibiotics.",
+        "Complications and monitoring in antibiotics.",
+        "Outline the pathophysiology and treatment of antibiotics."
+      ]
+    },
+    {
+      "topic_id": "TERM37580",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify antibiotics.",
+        "Discuss the clinical features and management of antibiotics.",
+        "Approach to diagnosis of antibiotics.",
+        "Complications and monitoring in antibiotics.",
+        "Outline the pathophysiology and treatment of antibiotics."
+      ]
+    }
+  ]
+}

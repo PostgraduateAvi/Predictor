@@ -1,0 +1,226 @@
+{
+  "year": 2023,
+  "paper_id": 3,
+  "questions": [
+    {
+      "q_id": "eb317dfc4345",
+      "raw_text": "Enumerate tachyarrhythmias and write a note on Atrial fibrillation",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM06626;TERM39637;TERM18013;TERM41550;TERM43526",
+      "harrison_tag_terms": "tachyarrhythmias;atrial fibrillation;atrial arrhythmias;in atrial fibrillation;for atrial fibrillation",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "ad9a83ce561f",
+      "raw_text": "Pulmonary eosinophilic disorders",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM29492;TERM33229;TERM05535;TERM14271;TERM16103",
+      "harrison_tag_terms": "pulmonary eosinophilia;eosinophilic;eosinophilic;eosinophilic;eosinophilic",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "2626a96c3d34",
+      "raw_text": "Neurologic disorders in critical illness",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM13149;TERM24874;TERM09617;TERM33424;TERM22066",
+      "harrison_tag_terms": "in neurologic critical illness;in neurologic critical illness;neurologic critical illness;critical illness;in neurologic disorders",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "88972675280c",
+      "raw_text": "Irritable bowel syndrome",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM22793;TERM11819;TERM08993;TERM38946;TERM09840",
+      "harrison_tag_terms": "Irritable bowel syndrome (IBS);in short bowel syndrome;of bowel;Stagnant bowel syndrome;irritant",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "3bcd1a437eeb",
+      "raw_text": "Nephrolithiasis",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM23205;TERM28766;TERM36091;TERM18394;TERM42676",
+      "harrison_tag_terms": "nephrolithiasis;Nephrolithiasis;nephrolithiasis;in nephrolithiasis;in nephrolithiasis",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "6433f73b6e8c",
+      "raw_text": "Enumerate Myeloproliferative disorders and write a note on Polycythemia Vera",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM23990;TERM28278;TERM12369;TERM33374;TERM28234",
+      "harrison_tag_terms": "polycythemia vera and;transient myeloproliferative disorder;transient myeloproliferative disorder in;Polycythemia vera;polycythemia vera",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "bc8fa2dea3d8",
+      "raw_text": "Male infertility",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM34297;TERM10687;TERM21880;TERM01215;TERM14995",
+      "harrison_tag_terms": "male infertility;male infertility;Infertility;infertility;infertility",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "884cc5892850",
+      "raw_text": "Preventive cardiology",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM11396;TERM34183;TERM38339;TERM37357;TERM44299",
+      "harrison_tag_terms": "preventive;Preventive care;in preventive care;vs. preventive care;in preventive care, 12\u2013",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "3fb9629210aa",
+      "raw_text": "End of life care in a hospitalized patient",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM27814;TERM43313;TERM11592;TERM17093;TERM03120",
+      "harrison_tag_terms": "in hospitalized patient;in hospitalized patients, 2100\u2013;in hospitalized patients, 3117\u2013;in hospitalized patients, 3117\u2013;new-onset, in hospitalized patient",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "71de81ab831c",
+      "raw_text": "Hemophagocytic lymphohistiocytosis",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM25134;TERM18649;TERM19842;TERM37066;TERM14383",
+      "harrison_tag_terms": "Lymphohistiocytosis, hemophagocytic;Hemophagocytic lymphohistiocytosis (HLH);HLH (hemophagocytic lymphohistiocytosis);for hemophagocytic syndrome;for hemophagocytic syndrome",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "434d75aca10a",
+      "raw_text": "Discuss aetiology, clinical features, investigations, and management in a case of Aortic dissection",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM02749;TERM12907;TERM41541;TERM25661;TERM02710",
+      "harrison_tag_terms": "in aortic dissection;in aortic dissection;in aortic dissection;aortic dissection;Aortic dissection",
+      "templates_str": "management;clinical_features"
+    },
+    {
+      "q_id": "74dfea72ad69",
+      "raw_text": "Discuss classification, aetiology, clinical features, investigations, and treatment in a patient with interstitial lung disease.",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM12796;TERM35172;TERM09722;TERM10043;TERM24833",
+      "harrison_tag_terms": "in interstitial lung disease;in interstitial lung disease;interstitial lung disease in;in interstitial lung disease;in interstitial lung disease",
+      "templates_str": "classification;management;clinical_features"
+    },
+    {
+      "q_id": "455b7f58c5c6",
+      "raw_text": "Discuss Hypertensive Emergencies. Tabulate preferred parenteral drugs for selected Hypertensive Emergencies,",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM29273;TERM32325;TERM20089;TERM08886;TERM29283",
+      "harrison_tag_terms": "for hypertensive emergencies;for hypertensive emergencies;for hypertensive emergencies;for hypertensive emergencies;for hypertensive emergencies",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "7f87bd880ab7",
+      "raw_text": "Classify Haemolytic Anaemia.Discuss in detail Hereditary Spherocytosis",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM18741;TERM38677;TERM38659;TERM01976;TERM28323",
+      "harrison_tag_terms": "hereditary spherocytosis;for hereditary spherocytosis;Spherocytosis;hereditary;hereditary",
+      "templates_str": "classification"
+    },
+    {
+      "q_id": "1f4187f5f0ec",
+      "raw_text": "SGLT-2 inhibiters in clinical practice",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM32410;TERM32420;TERM18274;TERM35587;TERM25908",
+      "harrison_tag_terms": "in clinical practice;in clinical practice;SGLT-2 inhibitors, 1948\u2013;implications for clinical practice;practice of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "a338c8403b96",
+      "raw_text": "Discuss etiopathogenesis and management of Autoimmune Hepatitis",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM08736;TERM03641;TERM03306;TERM00976;TERM10769",
+      "harrison_tag_terms": "autoimmune hepatitis and;Autoimmune hepatitis;in autoimmune hepatitis;in autoimmune hepatitis;in autoimmune hepatitis",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "22bc60384854",
+      "raw_text": "Psoriatic Arthropathy",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM03129;TERM38850;TERM03035;TERM18487;TERM00006",
+      "harrison_tag_terms": "psoriatic;psoriatic;Arthropathy;arthropathy;arthropathy",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "c95d7fea4de8",
+      "raw_text": "Algorithm depicting assessment and management of delirium in hospitalized older patients",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM27814;TERM06064;TERM43313;TERM11592;TERM17093",
+      "harrison_tag_terms": "in hospitalized patient;patient management in;in hospitalized patients, 2100\u2013;in hospitalized patients, 3117\u2013;in hospitalized patients, 3117\u2013",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "1bc40f624d8a",
+      "raw_text": "Lupus Nephritis",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM28742;TERM00427;TERM23312;TERM02093;TERM02192",
+      "harrison_tag_terms": "lupus nephritis;lupus nephritis;in lupus nephritis;for lupus nephritis;for lupus nephritis",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "2f719620d136",
+      "raw_text": "Discuss the pathophysiology and management of Parkinson\u2019s\u2019 disease.",
+      "year": 2023,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM27515;TERM11248;TERM31316;TERM38062;TERM02822",
+      "harrison_tag_terms": "in Parkinson\u2019s disease;vs. Parkinson\u2019s disease dementia;Parkinson\u2019s disease (PD);pathophysiology of;pathophysiology of",
+      "templates_str": "management"
+    }
+  ]
+}

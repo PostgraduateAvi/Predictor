@@ -1,0 +1,116 @@
+{
+  "year": 2022,
+  "paper_id": 2,
+  "questions": [
+    {
+      "q_id": "c72731143b11",
+      "raw_text": "Management of poisonous snake bite in India",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM34522;TERM06064;TERM11570;TERM11667;TERM11743",
+      "harrison_tag_terms": "pain management;patient management in;treatment and management of;treatment and management of;treatment and management of",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "72eac451dcf1",
+      "raw_text": "Acetaminophen Toxicity",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM01069;TERM00938;TERM32427;TERM30507;TERM24440",
+      "harrison_tag_terms": "acetaminophen toxicity in;acetaminophen toxicity and;acetaminophen;acetaminophen;acetaminophen in",
+      "templates_str": "poisoning"
+    },
+    {
+      "q_id": "b8d3e6b1207d",
+      "raw_text": "Scrofuloderma",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM33235;TERM37421;TERM35302;TERM26023;TERM12509",
+      "harrison_tag_terms": "Poikiloderma;Scleroderma;Pyoderma;leukoderma in;erythroderma",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "a03df7ae162d",
+      "raw_text": "Post exposure prophylaxis for HIV",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM26250;TERM19130;TERM23909;TERM35531;TERM18817",
+      "harrison_tag_terms": "prophylaxis for exposure to;for postexposure prophylaxis;postexposure prophylaxis for;postexposure prophylaxis for;postexposure prophylaxis for",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "2463169d7a99",
+      "raw_text": "Covid-19 vaccines",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM10103;TERM22105;TERM10036;TERM10104;TERM17617",
+      "harrison_tag_terms": "COVID-19 vaccines;COVID-19 and;COVID-19 disease;COVID-19 disease;in COVID-19 disease",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "2cfa31447461",
+      "raw_text": "Classify UTI syndromes. Write a note on Asymptomatic bacteruria",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM03475;TERM42840;TERM34030;TERM20559;TERM15901",
+      "harrison_tag_terms": "Asymptomatic bacteriuria;asymptomatic bacteriuria;asymptomatic bacteriuria in;asymptomatic;asymptomatic",
+      "templates_str": "classification"
+    },
+    {
+      "q_id": "b3ac3d8148d6",
+      "raw_text": "Hydatid disease",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM20242;TERM19205;TERM25723;TERM12572;TERM31995",
+      "harrison_tag_terms": "Hydatid disease;disease;disease;disease;disease",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "df497b084f44",
+      "raw_text": "Scrub typhus",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM37369;TERM36697;TERM14250;TERM08037;TERM12608",
+      "harrison_tag_terms": "Scrub typhus;scrub typhus;in scrub typhus;for scrub typhus;for scrub typhus",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "86245dc10fe5",
+      "raw_text": "Antibiotic stewardship",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM02527;TERM02387;TERM37855;TERM21965;TERM37580",
+      "harrison_tag_terms": "Antimicrobial stewardship, 248, 250, 1135\u2013;stewardship of, 248, 250, 1135\u20131136, 1162\u2013;antibiotics;antibiotics;antibiotics",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "92d6633df5ac",
+      "raw_text": "Ventilator associated pneumonia",
+      "year": 2022,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM39047;TERM13775;TERM33124;TERM26686;TERM24042",
+      "harrison_tag_terms": "ventilator-associated pneumonia;ventilator-associated pneumonia;in ventilator-associated pneumonia;in ventilator-associated pneumonia;for ventilator-associated pneumonia",
+      "templates_str": "general_essay"
+    }
+  ]
+}
