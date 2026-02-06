@@ -1,0 +1,226 @@
+{
+  "year": 2022,
+  "paper_id": 4,
+  "questions": [
+    {
+      "q_id": "cab647f1cded",
+      "raw_text": "Describerecent advances in treatment of coronary artery disease.",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM06532;TERM39188;TERM06741;TERM09877;TERM40856",
+      "harrison_tag_terms": "coronary artery disease and;coronary artery;coronary artery;Coronary artery disease (CAD);coronary artery, A",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "f879e189a76d",
+      "raw_text": "Describe Newer drugs in treating insomnia including daridorexant",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM37342;TERM34978;TERM02590;TERM11332;TERM11175",
+      "harrison_tag_terms": "insomnia in;insomnia in;insomnia in;insomnia in;insomnia in",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "71eb8d9f736b",
+      "raw_text": "In clinical trials what are phases of clinical testing(Phase 0 to phase IV)",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM00519;TERM16338;TERM32460;TERM23109;TERM09820",
+      "harrison_tag_terms": "phases of;clinical trials;clinical;in clinical drug trials;acute phase",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "34413264c421",
+      "raw_text": "Descrine gene therapy for genetic disorders of the haemoglobin ,including sickle cell disease and thalassemias.",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM37895;TERM41790;TERM16390;TERM18489;TERM38711",
+      "harrison_tag_terms": "Sickle thalassemia syndrome;for sickle cell disease;for sickle cell disease;for sickle cell disease;for sickle cell disease",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "d8e78c5d00ec",
+      "raw_text": "Delamanid",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM11180;TERM34177",
+      "harrison_tag_terms": "Delamanid;Pretomanid",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "949620085f70",
+      "raw_text": "Discuss recent advances in stroke management and residual challenges.",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM42517;TERM34522;TERM06064;TERM09525;TERM11570",
+      "harrison_tag_terms": "challenges in;pain management;patient management in;research challenges in;treatment and management of",
+      "templates_str": "management;recent_advances"
+    },
+    {
+      "q_id": "d591182c1581",
+      "raw_text": "The microbiome in SLE pathogenesis.",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM21701;TERM26934;TERM21686;TERM12003;TERM36441",
+      "harrison_tag_terms": "microbial pathogenesis in;Microbial pathogenesis;microbiome of;microbiome and;microbiome and",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "609b5233fd12",
+      "raw_text": "Discuss new approaches along the IBD course,including diet,tight control and stem cells. Discuss proactive serial monitoring of inflammatory biomarkers.",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM10108",
+      "harrison_tag_terms": "discussion with patients",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "d708356e2a64",
+      "raw_text": "Cardiac injury and COVID-19 associated coagulopathy in patients with acute SARS CoV-2 pneumonia",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM22105;TERM08603;TERM28063;TERM24866;TERM17617",
+      "harrison_tag_terms": "COVID-19 and;coagulopathy;COVID-19 risk and;COVID-19 disease and;in COVID-19 disease",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "bf94281aa234",
+      "raw_text": "Immunologics for migrane prophylaxis.",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM02799;TERM26040;TERM39708;TERM18868;TERM19237",
+      "harrison_tag_terms": "immunologic;immunologic;immunologic;prophylaxis for;prophylaxis for",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "b10136844d13",
+      "raw_text": "ESC guidelines 2022 for hypertension",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM09597;TERM28986;TERM09731;TERM34484;TERM33844",
+      "harrison_tag_terms": "guidelines for;guidelines for;care guidelines for;for hypertension;for hypertension",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "c94c18f33e8f",
+      "raw_text": "ADA guidelines 2023 for Diabetes Mellitus",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM14612;TERM38517;TERM29815;TERM44333;TERM16683",
+      "harrison_tag_terms": "for diabetes mellitus;for diabetes mellitus;for diabetes mellitus;diabetes mellitus;diabetes mellitus",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "5cdd54e9f1aa",
+      "raw_text": "Bembedoic acid",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM04376;TERM24257;TERM34095;TERM28815;TERM28731",
+      "harrison_tag_terms": "Bempedoic acid;Lipoic acid;retinoic acid in;uric acid;uric acid",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "a807a7cc9fd5",
+      "raw_text": "Nintedanib",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM29413",
+      "harrison_tag_terms": "Nintedanib",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "9da31dcd0815",
+      "raw_text": "Emerging therapeutic strategies in septic shock",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM16145;TERM09350;TERM21186;TERM05610;TERM05255",
+      "harrison_tag_terms": "therapeutic;therapeutic;therapeutic;therapeutic;therapeutic",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "f6463ddb28d5",
+      "raw_text": "Newer diagnostic tests for Aizheimer's disease",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM11758;TERM25504;TERM01396;TERM22818;TERM20297",
+      "harrison_tag_terms": "Diagnostic tests;diagnostic;Alzheimer\u2019s disease (AD);diagnostic criteria for;diagnostic markers of",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "8f0dacf18383",
+      "raw_text": "Public health surveillance",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM18114;TERM21726;TERM34496;TERM21677;TERM12905",
+      "harrison_tag_terms": "surveillance;surveillance by;vs. active surveillance, 205\u2013;public health implications of;health and",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "9956160358be",
+      "raw_text": "Internet addiction",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM25861;TERM06136;TERM30331;TERM31428;TERM34212",
+      "harrison_tag_terms": "Internet and, 6\u2013;oncogene addiction in;Oncogene addiction;Internet use by, 6\u2013;mental health and addiction screening in",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "89b240ff908c",
+      "raw_text": "Area under curve (AUC)",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM02654;TERM27185;TERM06533;TERM32357",
+      "harrison_tag_terms": "valve area;valve area;valve area;Phase response curve (PRC)",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "dc6e8e17f3de",
+      "raw_text": "Novel biomarkers in kidney diseases 1 mn \u20182 ea",
+      "year": 2022,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM18081;TERM39400;TERM00242;TERM42251;TERM12478",
+      "harrison_tag_terms": "biomarkers;biomarkers;biomarkers;biomarkers;in kidney disease",
+      "templates_str": "general_essay"
+    }
+  ]
+}

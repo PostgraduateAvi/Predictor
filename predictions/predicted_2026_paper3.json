@@ -1,0 +1,668 @@
+{
+  "paper_id": 3,
+  "generated_at": "2026-02-06T04:51:19.220192+00:00",
+  "high_confidence": [
+    {
+      "topic_id": "DOMAIN:GENERAL_MISC",
+      "confidence": 7.9,
+      "backup_questions": [
+        "Define and classify DOMAIN:GENERAL_MISC.",
+        "Discuss the clinical features and management of DOMAIN:GENERAL_MISC.",
+        "Approach to diagnosis of DOMAIN:GENERAL_MISC.",
+        "Complications and monitoring in DOMAIN:GENERAL_MISC.",
+        "Outline the pathophysiology and treatment of DOMAIN:GENERAL_MISC."
+      ]
+    },
+    {
+      "topic_id": "TERM27814",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify in hospitalized patient.",
+        "Discuss the clinical features and management of in hospitalized patient.",
+        "Approach to diagnosis of in hospitalized patient.",
+        "Complications and monitoring in in hospitalized patient.",
+        "Outline the pathophysiology and treatment of in hospitalized patient."
+      ]
+    },
+    {
+      "topic_id": "TERM43313",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify in hospitalized patients, 2100\u2013.",
+        "Discuss the clinical features and management of in hospitalized patients, 2100\u2013.",
+        "Approach to diagnosis of in hospitalized patients, 2100\u2013.",
+        "Complications and monitoring in in hospitalized patients, 2100\u2013.",
+        "Outline the pathophysiology and treatment of in hospitalized patients, 2100\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM11592",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify in hospitalized patients, 3117\u2013.",
+        "Discuss the clinical features and management of in hospitalized patients, 3117\u2013.",
+        "Approach to diagnosis of in hospitalized patients, 3117\u2013.",
+        "Complications and monitoring in in hospitalized patients, 3117\u2013.",
+        "Outline the pathophysiology and treatment of in hospitalized patients, 3117\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM17093",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify in hospitalized patients, 3117\u2013.",
+        "Discuss the clinical features and management of in hospitalized patients, 3117\u2013.",
+        "Approach to diagnosis of in hospitalized patients, 3117\u2013.",
+        "Complications and monitoring in in hospitalized patients, 3117\u2013.",
+        "Outline the pathophysiology and treatment of in hospitalized patients, 3117\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM26835",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Microvascular angina.",
+        "Discuss the clinical features and management of Microvascular angina.",
+        "Approach to diagnosis of Microvascular angina.",
+        "Complications and monitoring in Microvascular angina.",
+        "Outline the pathophysiology and treatment of Microvascular angina."
+      ]
+    },
+    {
+      "topic_id": "TERM01901",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify microvascular.",
+        "Discuss the clinical features and management of microvascular.",
+        "Approach to diagnosis of microvascular.",
+        "Complications and monitoring in microvascular.",
+        "Outline the pathophysiology and treatment of microvascular."
+      ]
+    },
+    {
+      "topic_id": "TERM39863",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify microvascular thrombotic crisis in.",
+        "Discuss the clinical features and management of microvascular thrombotic crisis in.",
+        "Approach to diagnosis of microvascular thrombotic crisis in.",
+        "Complications and monitoring in microvascular thrombotic crisis in.",
+        "Outline the pathophysiology and treatment of microvascular thrombotic crisis in."
+      ]
+    },
+    {
+      "topic_id": "TERM09892",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify angina.",
+        "Discuss the clinical features and management of angina.",
+        "Approach to diagnosis of angina.",
+        "Complications and monitoring in angina.",
+        "Outline the pathophysiology and treatment of angina."
+      ]
+    },
+    {
+      "topic_id": "TERM22889",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify angina.",
+        "Discuss the clinical features and management of angina.",
+        "Approach to diagnosis of angina.",
+        "Complications and monitoring in angina.",
+        "Outline the pathophysiology and treatment of angina."
+      ]
+    },
+    {
+      "topic_id": "TERM35327",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Pulmonary rehabilitation.",
+        "Discuss the clinical features and management of Pulmonary rehabilitation.",
+        "Approach to diagnosis of Pulmonary rehabilitation.",
+        "Complications and monitoring in Pulmonary rehabilitation.",
+        "Outline the pathophysiology and treatment of Pulmonary rehabilitation."
+      ]
+    },
+    {
+      "topic_id": "TERM08577",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify pulmonary rehabilitation.",
+        "Discuss the clinical features and management of pulmonary rehabilitation.",
+        "Approach to diagnosis of pulmonary rehabilitation.",
+        "Complications and monitoring in pulmonary rehabilitation.",
+        "Outline the pathophysiology and treatment of pulmonary rehabilitation."
+      ]
+    },
+    {
+      "topic_id": "TERM28944",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify rehabilitation for.",
+        "Discuss the clinical features and management of rehabilitation for.",
+        "Approach to diagnosis of rehabilitation for.",
+        "Complications and monitoring in rehabilitation for.",
+        "Outline the pathophysiology and treatment of rehabilitation for."
+      ]
+    },
+    {
+      "topic_id": "TERM00978",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify rehabilitation for.",
+        "Discuss the clinical features and management of rehabilitation for.",
+        "Approach to diagnosis of rehabilitation for.",
+        "Complications and monitoring in rehabilitation for.",
+        "Outline the pathophysiology and treatment of rehabilitation for."
+      ]
+    },
+    {
+      "topic_id": "TERM43598",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Vestibular rehabilitation therapy.",
+        "Discuss the clinical features and management of Vestibular rehabilitation therapy.",
+        "Approach to diagnosis of Vestibular rehabilitation therapy.",
+        "Complications and monitoring in Vestibular rehabilitation therapy.",
+        "Outline the pathophysiology and treatment of Vestibular rehabilitation therapy."
+      ]
+    },
+    {
+      "topic_id": "TERM20505",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify hyperglycemic hyperosmolar state.",
+        "Discuss the clinical features and management of hyperglycemic hyperosmolar state.",
+        "Approach to diagnosis of hyperglycemic hyperosmolar state.",
+        "Complications and monitoring in hyperglycemic hyperosmolar state.",
+        "Outline the pathophysiology and treatment of hyperglycemic hyperosmolar state."
+      ]
+    },
+    {
+      "topic_id": "TERM19501",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify HHS (hyperglycemic hyperosmolar state).",
+        "Discuss the clinical features and management of HHS (hyperglycemic hyperosmolar state).",
+        "Approach to diagnosis of HHS (hyperglycemic hyperosmolar state).",
+        "Complications and monitoring in HHS (hyperglycemic hyperosmolar state).",
+        "Outline the pathophysiology and treatment of HHS (hyperglycemic hyperosmolar state)."
+      ]
+    },
+    {
+      "topic_id": "TERM11584",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify hyperglycemic hypermolar state.",
+        "Discuss the clinical features and management of hyperglycemic hypermolar state.",
+        "Approach to diagnosis of hyperglycemic hypermolar state.",
+        "Complications and monitoring in hyperglycemic hypermolar state.",
+        "Outline the pathophysiology and treatment of hyperglycemic hypermolar state."
+      ]
+    },
+    {
+      "topic_id": "TERM09603",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify hyperglycemic hemichorea, A.",
+        "Discuss the clinical features and management of hyperglycemic hemichorea, A.",
+        "Approach to diagnosis of hyperglycemic hemichorea, A.",
+        "Complications and monitoring in hyperglycemic hemichorea, A.",
+        "Outline the pathophysiology and treatment of hyperglycemic hemichorea, A."
+      ]
+    },
+    {
+      "topic_id": "TERM30396",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Osmolar gap.",
+        "Discuss the clinical features and management of Osmolar gap.",
+        "Approach to diagnosis of Osmolar gap.",
+        "Complications and monitoring in Osmolar gap.",
+        "Outline the pathophysiology and treatment of Osmolar gap."
+      ]
+    },
+    {
+      "topic_id": "TERM08723",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify neutropenic enterocolitis.",
+        "Discuss the clinical features and management of neutropenic enterocolitis.",
+        "Approach to diagnosis of neutropenic enterocolitis.",
+        "Complications and monitoring in neutropenic enterocolitis.",
+        "Outline the pathophysiology and treatment of neutropenic enterocolitis."
+      ]
+    },
+    {
+      "topic_id": "TERM05926",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify neutropenic enterocolitis.",
+        "Discuss the clinical features and management of neutropenic enterocolitis.",
+        "Approach to diagnosis of neutropenic enterocolitis.",
+        "Complications and monitoring in neutropenic enterocolitis.",
+        "Outline the pathophysiology and treatment of neutropenic enterocolitis."
+      ]
+    },
+    {
+      "topic_id": "TERM29177",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Neutropenic enterocolitis (typhilitis).",
+        "Discuss the clinical features and management of Neutropenic enterocolitis (typhilitis).",
+        "Approach to diagnosis of Neutropenic enterocolitis (typhilitis).",
+        "Complications and monitoring in Neutropenic enterocolitis (typhilitis).",
+        "Outline the pathophysiology and treatment of Neutropenic enterocolitis (typhilitis)."
+      ]
+    },
+    {
+      "topic_id": "TERM42493",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Typhilitis (neutropenic enterocolitis).",
+        "Discuss the clinical features and management of Typhilitis (neutropenic enterocolitis).",
+        "Approach to diagnosis of Typhilitis (neutropenic enterocolitis).",
+        "Complications and monitoring in Typhilitis (neutropenic enterocolitis).",
+        "Outline the pathophysiology and treatment of Typhilitis (neutropenic enterocolitis)."
+      ]
+    },
+    {
+      "topic_id": "TERM13713",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify neutropenic.",
+        "Discuss the clinical features and management of neutropenic.",
+        "Approach to diagnosis of neutropenic.",
+        "Complications and monitoring in neutropenic.",
+        "Outline the pathophysiology and treatment of neutropenic."
+      ]
+    },
+    {
+      "topic_id": "TERM21876",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disorders associated with.",
+        "Discuss the clinical features and management of disorders associated with.",
+        "Approach to diagnosis of disorders associated with.",
+        "Complications and monitoring in disorders associated with.",
+        "Outline the pathophysiology and treatment of disorders associated with."
+      ]
+    },
+    {
+      "topic_id": "TERM08183",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disorders associated with.",
+        "Discuss the clinical features and management of disorders associated with.",
+        "Approach to diagnosis of disorders associated with.",
+        "Complications and monitoring in disorders associated with.",
+        "Outline the pathophysiology and treatment of disorders associated with."
+      ]
+    },
+    {
+      "topic_id": "TERM00405",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disorders associated with.",
+        "Discuss the clinical features and management of disorders associated with.",
+        "Approach to diagnosis of disorders associated with.",
+        "Complications and monitoring in disorders associated with.",
+        "Outline the pathophysiology and treatment of disorders associated with."
+      ]
+    },
+    {
+      "topic_id": "TERM20888",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disorders associated with.",
+        "Discuss the clinical features and management of disorders associated with.",
+        "Approach to diagnosis of disorders associated with.",
+        "Complications and monitoring in disorders associated with.",
+        "Outline the pathophysiology and treatment of disorders associated with."
+      ]
+    },
+    {
+      "topic_id": "TERM20680",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify disorders associated with.",
+        "Discuss the clinical features and management of disorders associated with.",
+        "Approach to diagnosis of disorders associated with.",
+        "Complications and monitoring in disorders associated with.",
+        "Outline the pathophysiology and treatment of disorders associated with."
+      ]
+    }
+  ],
+  "coverage_backup": [
+    {
+      "topic_id": "TERM03466",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify myelodysplastic syndromes.",
+        "Discuss the clinical features and management of myelodysplastic syndromes.",
+        "Approach to diagnosis of myelodysplastic syndromes.",
+        "Complications and monitoring in myelodysplastic syndromes.",
+        "Outline the pathophysiology and treatment of myelodysplastic syndromes."
+      ]
+    },
+    {
+      "topic_id": "TERM28256",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify myelodysplastic syndromes.",
+        "Discuss the clinical features and management of myelodysplastic syndromes.",
+        "Approach to diagnosis of myelodysplastic syndromes.",
+        "Complications and monitoring in myelodysplastic syndromes.",
+        "Outline the pathophysiology and treatment of myelodysplastic syndromes."
+      ]
+    },
+    {
+      "topic_id": "TERM05048",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in myelodysplastic syndromes.",
+        "Discuss the clinical features and management of in myelodysplastic syndromes.",
+        "Approach to diagnosis of in myelodysplastic syndromes.",
+        "Complications and monitoring in in myelodysplastic syndromes.",
+        "Outline the pathophysiology and treatment of in myelodysplastic syndromes."
+      ]
+    },
+    {
+      "topic_id": "TERM41657",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in myelodysplastic syndromes.",
+        "Discuss the clinical features and management of in myelodysplastic syndromes.",
+        "Approach to diagnosis of in myelodysplastic syndromes.",
+        "Complications and monitoring in in myelodysplastic syndromes.",
+        "Outline the pathophysiology and treatment of in myelodysplastic syndromes."
+      ]
+    },
+    {
+      "topic_id": "TERM28208",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Myelodysplastic syndromes (MDS).",
+        "Discuss the clinical features and management of Myelodysplastic syndromes (MDS).",
+        "Approach to diagnosis of Myelodysplastic syndromes (MDS).",
+        "Complications and monitoring in Myelodysplastic syndromes (MDS).",
+        "Outline the pathophysiology and treatment of Myelodysplastic syndromes (MDS)."
+      ]
+    },
+    {
+      "topic_id": "TERM06133",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify necrosis in.",
+        "Discuss the clinical features and management of necrosis in.",
+        "Approach to diagnosis of necrosis in.",
+        "Complications and monitoring in necrosis in.",
+        "Outline the pathophysiology and treatment of necrosis in."
+      ]
+    },
+    {
+      "topic_id": "TERM07480",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Cell necrosis.",
+        "Discuss the clinical features and management of Cell necrosis.",
+        "Approach to diagnosis of Cell necrosis.",
+        "Complications and monitoring in Cell necrosis.",
+        "Outline the pathophysiology and treatment of Cell necrosis."
+      ]
+    },
+    {
+      "topic_id": "TERM18881",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify skin necrosis.",
+        "Discuss the clinical features and management of skin necrosis.",
+        "Approach to diagnosis of skin necrosis.",
+        "Complications and monitoring in skin necrosis.",
+        "Outline the pathophysiology and treatment of skin necrosis."
+      ]
+    },
+    {
+      "topic_id": "TERM09218",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify skin necrosis.",
+        "Discuss the clinical features and management of skin necrosis.",
+        "Approach to diagnosis of skin necrosis.",
+        "Complications and monitoring in skin necrosis.",
+        "Outline the pathophysiology and treatment of skin necrosis."
+      ]
+    },
+    {
+      "topic_id": "TERM00455",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify fat necrosis.",
+        "Discuss the clinical features and management of fat necrosis.",
+        "Approach to diagnosis of fat necrosis.",
+        "Complications and monitoring in fat necrosis.",
+        "Outline the pathophysiology and treatment of fat necrosis."
+      ]
+    },
+    {
+      "topic_id": "TERM37093",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Salt-wasting disorders.",
+        "Discuss the clinical features and management of Salt-wasting disorders.",
+        "Approach to diagnosis of Salt-wasting disorders.",
+        "Complications and monitoring in Salt-wasting disorders.",
+        "Outline the pathophysiology and treatment of Salt-wasting disorders."
+      ]
+    },
+    {
+      "topic_id": "TERM09675",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify salt-wasting crisis.",
+        "Discuss the clinical features and management of salt-wasting crisis.",
+        "Approach to diagnosis of salt-wasting crisis.",
+        "Complications and monitoring in salt-wasting crisis.",
+        "Outline the pathophysiology and treatment of salt-wasting crisis."
+      ]
+    },
+    {
+      "topic_id": "TERM07556",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Cerebral salt wasting.",
+        "Discuss the clinical features and management of Cerebral salt wasting.",
+        "Approach to diagnosis of Cerebral salt wasting.",
+        "Complications and monitoring in Cerebral salt wasting.",
+        "Outline the pathophysiology and treatment of Cerebral salt wasting."
+      ]
+    },
+    {
+      "topic_id": "TERM39847",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify vs. cerebral salt wasting.",
+        "Discuss the clinical features and management of vs. cerebral salt wasting.",
+        "Approach to diagnosis of vs. cerebral salt wasting.",
+        "Complications and monitoring in vs. cerebral salt wasting.",
+        "Outline the pathophysiology and treatment of vs. cerebral salt wasting."
+      ]
+    },
+    {
+      "topic_id": "TERM03362",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify cerebral.",
+        "Discuss the clinical features and management of cerebral.",
+        "Approach to diagnosis of cerebral.",
+        "Complications and monitoring in cerebral.",
+        "Outline the pathophysiology and treatment of cerebral."
+      ]
+    },
+    {
+      "topic_id": "TERM04054",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify psychiatric.",
+        "Discuss the clinical features and management of psychiatric.",
+        "Approach to diagnosis of psychiatric.",
+        "Complications and monitoring in psychiatric.",
+        "Outline the pathophysiology and treatment of psychiatric."
+      ]
+    },
+    {
+      "topic_id": "TERM44388",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify psychiatric.",
+        "Discuss the clinical features and management of psychiatric.",
+        "Approach to diagnosis of psychiatric.",
+        "Complications and monitoring in psychiatric.",
+        "Outline the pathophysiology and treatment of psychiatric."
+      ]
+    },
+    {
+      "topic_id": "TERM42158",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in psychiatric disorders.",
+        "Discuss the clinical features and management of in psychiatric disorders.",
+        "Approach to diagnosis of in psychiatric disorders.",
+        "Complications and monitoring in in psychiatric disorders.",
+        "Outline the pathophysiology and treatment of in psychiatric disorders."
+      ]
+    },
+    {
+      "topic_id": "TERM22069",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify psychiatric disorders and.",
+        "Discuss the clinical features and management of psychiatric disorders and.",
+        "Approach to diagnosis of psychiatric disorders and.",
+        "Complications and monitoring in psychiatric disorders and.",
+        "Outline the pathophysiology and treatment of psychiatric disorders and."
+      ]
+    },
+    {
+      "topic_id": "TERM16625",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Geriatric care.",
+        "Discuss the clinical features and management of Geriatric care.",
+        "Approach to diagnosis of Geriatric care.",
+        "Complications and monitoring in Geriatric care.",
+        "Outline the pathophysiology and treatment of Geriatric care."
+      ]
+    },
+    {
+      "topic_id": "TERM34522",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify pain management.",
+        "Discuss the clinical features and management of pain management.",
+        "Approach to diagnosis of pain management.",
+        "Complications and monitoring in pain management.",
+        "Outline the pathophysiology and treatment of pain management."
+      ]
+    },
+    {
+      "topic_id": "TERM06262",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify palliative.",
+        "Discuss the clinical features and management of palliative.",
+        "Approach to diagnosis of palliative.",
+        "Complications and monitoring in palliative.",
+        "Outline the pathophysiology and treatment of palliative."
+      ]
+    },
+    {
+      "topic_id": "TERM05966",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify palliative.",
+        "Discuss the clinical features and management of palliative.",
+        "Approach to diagnosis of palliative.",
+        "Complications and monitoring in palliative.",
+        "Outline the pathophysiology and treatment of palliative."
+      ]
+    },
+    {
+      "topic_id": "TERM05346",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify palliative care.",
+        "Discuss the clinical features and management of palliative care.",
+        "Approach to diagnosis of palliative care.",
+        "Complications and monitoring in palliative care.",
+        "Outline the pathophysiology and treatment of palliative care."
+      ]
+    },
+    {
+      "topic_id": "TERM13467",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify palliative care.",
+        "Discuss the clinical features and management of palliative care.",
+        "Approach to diagnosis of palliative care.",
+        "Complications and monitoring in palliative care.",
+        "Outline the pathophysiology and treatment of palliative care."
+      ]
+    },
+    {
+      "topic_id": "TERM06626",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify tachyarrhythmias.",
+        "Discuss the clinical features and management of tachyarrhythmias.",
+        "Approach to diagnosis of tachyarrhythmias.",
+        "Complications and monitoring in tachyarrhythmias.",
+        "Outline the pathophysiology and treatment of tachyarrhythmias."
+      ]
+    },
+    {
+      "topic_id": "TERM39637",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify atrial fibrillation.",
+        "Discuss the clinical features and management of atrial fibrillation.",
+        "Approach to diagnosis of atrial fibrillation.",
+        "Complications and monitoring in atrial fibrillation.",
+        "Outline the pathophysiology and treatment of atrial fibrillation."
+      ]
+    },
+    {
+      "topic_id": "TERM18013",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify atrial arrhythmias.",
+        "Discuss the clinical features and management of atrial arrhythmias.",
+        "Approach to diagnosis of atrial arrhythmias.",
+        "Complications and monitoring in atrial arrhythmias.",
+        "Outline the pathophysiology and treatment of atrial arrhythmias."
+      ]
+    },
+    {
+      "topic_id": "TERM41550",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in atrial fibrillation.",
+        "Discuss the clinical features and management of in atrial fibrillation.",
+        "Approach to diagnosis of in atrial fibrillation.",
+        "Complications and monitoring in in atrial fibrillation.",
+        "Outline the pathophysiology and treatment of in atrial fibrillation."
+      ]
+    },
+    {
+      "topic_id": "TERM43526",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for atrial fibrillation.",
+        "Discuss the clinical features and management of for atrial fibrillation.",
+        "Approach to diagnosis of for atrial fibrillation.",
+        "Complications and monitoring in for atrial fibrillation.",
+        "Outline the pathophysiology and treatment of for atrial fibrillation."
+      ]
+    }
+  ]
+}

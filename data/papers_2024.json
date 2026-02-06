@@ -1,0 +1,226 @@
+{
+  "year": 2024,
+  "paper_id": "all",
+  "questions": [
+    {
+      "q_id": "6d4e87762939",
+      "raw_text": "Discuss sources, metabolism, toxicity and management of heavy metal poisoning",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM16799;TERM28687;TERM03404;TERM43937;TERM29255",
+      "harrison_tag_terms": "heavy metal poisoning;heavy metal;metabolism of;metabolism of;metabolism of",
+      "templates_str": "management;poisoning"
+    },
+    {
+      "q_id": "6e5c5c38ed4f",
+      "raw_text": "Discuss Classification, clinical presentation and treatment of NTM (Non Tubercular Mycobacteria)",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM23794;TERM04501;TERM00732;TERM04197;TERM28094",
+      "harrison_tag_terms": "clinical presentation of;Classification;classification;Classification;Mycobacterium tuberculosis",
+      "templates_str": "classification;management;clinical_features"
+    },
+    {
+      "q_id": "8d1fa06f16ba",
+      "raw_text": "Define and classify vasculitis syndrome. Discuss potential mechanisms of vessel damage in vasculitis syndrome.",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM22313;TERM42464;TERM43252;TERM40895;TERM39981",
+      "harrison_tag_terms": "in vasculitis syndromes;in vasculitis syndromes;Vasculitis syndromes;vasculitis;vasculitis",
+      "templates_str": "classification"
+    },
+    {
+      "q_id": "bcff481fabd4",
+      "raw_text": "Recent guidelines in the management of HIV.",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM28986;TERM09597;TERM09731;TERM34522;TERM06064",
+      "harrison_tag_terms": "guidelines for;guidelines for;care guidelines for;pain management;patient management in",
+      "templates_str": "management;recent_advances"
+    },
+    {
+      "q_id": "ddbbbc56263c",
+      "raw_text": "Dengue Vaccine",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM25450;TERM11334;TERM11303;TERM40336;TERM20579",
+      "harrison_tag_terms": "vaccine;vaccine;Dengue viruses;Td vaccine;to vaccine or vaccine component",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "155d63bb96f8",
+      "raw_text": "Serological Markers of Sepsis",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM42541;TERM10404;TERM18897;TERM19056;TERM10265",
+      "harrison_tag_terms": "serologic markers in, 2477\u2013;serologic markers in, 2477\u2013;serologic and viral markers of, 2565\u2013;serology and virologic markers of, 2565\u2013;sepsis in",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "8f1756c921b4",
+      "raw_text": "Approach to the patient with Acute Febrile illness",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM00268;TERM35269;TERM06718;TERM22431;TERM18559",
+      "harrison_tag_terms": "Acute febrile illness;approach to the patient;approach to the patient;approach to the patient;approach to the patient",
+      "templates_str": "management;approach"
+    },
+    {
+      "q_id": "1c1df10d708a",
+      "raw_text": "Discuss Microbial pathogens that can cause lung abscess and management of lung abscess",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM24776;TERM15809;TERM34864;TERM08944;TERM27376",
+      "harrison_tag_terms": "Lung abscess;in lung abscess;in lung abscess;for lung abscess;for lung abscess",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "7dae11f97371",
+      "raw_text": "Discuss differential diagnosis and management of viral Encephalitis",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM33277;TERM27905;TERM26224;TERM33583;TERM08109",
+      "harrison_tag_terms": "in viral encephalitis diagnosis;differential diagnosis of;differential diagnosis of;differential diagnosis of;differential diagnosis of",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "653f880da511",
+      "raw_text": "Management of Venomous snakebite",
+      "year": 2024,
+      "paper_id": 2,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM43394;TERM13136;TERM00146;TERM03781;TERM38358",
+      "harrison_tag_terms": "Venomous snakebite;for snakebite treatment;for snakebite treatment;for snakebite treatment;Snakebites",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "0da16bdb092f",
+      "raw_text": "Describe the pathology, prognostic scoring system and management of Alcoholic Hepatitis",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM28475;TERM23269;TERM28479;TERM22905;TERM36558",
+      "harrison_tag_terms": "in alcoholism management;alcoholic;alcoholic;monitoring and management of;monitoring and management of",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "7a2092d2a1fa",
+      "raw_text": "Describe the role of SGLT2 Inhibitors in medicine; add a note on CVOT Trials",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM29302;TERM43160;TERM13788;TERM20801;TERM39725",
+      "harrison_tag_terms": "inhibitors;inhibitors;inhibitors;ACE inhibitors;ACE inhibitors",
+      "templates_str": "recent_advances"
+    },
+    {
+      "q_id": "5d978ad87dbb",
+      "raw_text": "Describe the management strategies in a patient with atrial fibrillation",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM41550;TERM39637;TERM02237;TERM01585;TERM05899",
+      "harrison_tag_terms": "in atrial fibrillation;atrial fibrillation;for atrial fibrillation;for atrial fibrillation;for atrial fibrillation",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "f2bf6091ea37",
+      "raw_text": "Describe bone marrow transplantation; enumerate the indications and complications",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM05083;TERM24512;TERM09985;TERM37751;TERM32332",
+      "harrison_tag_terms": "Bone marrow transplantation;complications of;complications of;complications of;complications of",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "d0cd205d8c10",
+      "raw_text": "Describe the glycemic variability and its role in management of diabetes mellitus",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM26433;TERM31232;TERM16192;TERM18605;TERM38911",
+      "harrison_tag_terms": "diabetes mellitus and;diabetes mellitus and;in diabetes mellitus;in diabetes mellitus;in diabetes mellitus",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "5267900efd89",
+      "raw_text": "Hypertensive arteriolar sclerosis",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM36442;TERM13288;TERM36003;TERM28734;TERM03176",
+      "harrison_tag_terms": "hypertensive;hypertensive;hypertensive nephrosclerosis;Nephrosclerosis, hypertensive;Arteriolosclerosis",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "10dfa1187ac7",
+      "raw_text": "Mucormycosis",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM36227;TERM27570;TERM33534;TERM38029;TERM09614",
+      "harrison_tag_terms": "mucormycosis;Mucormycosis;for mucormycosis;mucormycosis, A;mucormycosis, A",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "f3350c854eb3",
+      "raw_text": "Revised Jones criteria in rheumatic fever",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM23060;TERM18170;TERM42455;TERM07972;TERM16836",
+      "harrison_tag_terms": "Jones criteria;in rheumatic fever;in rheumatic fever;rheumatic fever in;rheumatic fever",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "47630fdc27e6",
+      "raw_text": "Neuropsychiatric sequelae of COVID-19",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM27105;TERM04161;TERM44388;TERM04054;TERM22105",
+      "harrison_tag_terms": "neuropsychiatric illnesses in, S;sequelae of;psychiatric;psychiatric;COVID-19 and",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "e092dc678584",
+      "raw_text": "Assessment of glomerular filtration",
+      "year": 2024,
+      "paper_id": 4,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM35971;TERM02113;TERM02233;TERM08381;TERM23199",
+      "harrison_tag_terms": "in glomerular filtration rate regulation;in glomerular filtration rate regulation;in glomerular filtration rate regulation;glomerular filtration rate in, 331\u2013;glomerular",
+      "templates_str": "general_essay"
+    }
+  ]
+}

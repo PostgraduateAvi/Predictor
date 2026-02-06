@@ -1,0 +1,116 @@
+{
+  "year": 2025,
+  "paper_id": 3,
+  "questions": [
+    {
+      "q_id": "516aa10abc6c",
+      "raw_text": "Classify Hypercalcaemia. Discuss Calcium homeostasis, causes and approach to hypercalcaemia.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM31327;TERM20987;TERM24339;TERM27564;TERM20418",
+      "harrison_tag_terms": "in calcium homeostasis;hypercalcemia and;hypercalcemia;hypercalcemia;Hypercalcemia",
+      "templates_str": "classification;management;approach"
+    },
+    {
+      "q_id": "cf523b43c791",
+      "raw_text": "Define Criteria for Acute Kidney Injury (AKI). Discuss in detail causes, clinical features and investigations of AKI.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM00230;TERM28108;TERM00372;TERM20267;TERM26329",
+      "harrison_tag_terms": "Acute kidney injury (AKI);investigational;investigational agents;clinical features of, S;laboratory investigation of",
+      "templates_str": "clinical_features"
+    },
+    {
+      "q_id": "e311325d98f1",
+      "raw_text": "Mention indications for Cardiac catheterization and coronary angiography. Discuss in detail diagnosis, management and complications of Acute Myocardial Infarction.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM43525;TERM18642;TERM18890;TERM02765;TERM27169",
+      "harrison_tag_terms": "cardiac catheterization in;in cardiac catheterization;in cardiac catheterization;cardiac catheterization;cardiac catheterization",
+      "templates_str": "management"
+    },
+    {
+      "q_id": "0b55d93f51f6",
+      "raw_text": "Dissociative (Conversion) Disorders.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM09839;TERM00080;TERM16283;TERM09694;TERM37674",
+      "harrison_tag_terms": "Conversion disorders;conversion of;Gene conversion;gene conversion;Sensory dissociation",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "bd8fc03fc915",
+      "raw_text": "Clinical features and Management of Inflammatory Bowel Disease (IBD).",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM09411;TERM16667;TERM09445;TERM09305;TERM14283",
+      "harrison_tag_terms": "inflammatory bowel disease and;inflammatory bowel disease;in inflammatory bowel disease;in inflammatory bowel disease;in inflammatory bowel disease",
+      "templates_str": "management;clinical_features"
+    },
+    {
+      "q_id": "d27cea0fd9ce",
+      "raw_text": "Acute Meningoencephalitis.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM05700;TERM00481;TERM13629;TERM41275;TERM43195",
+      "harrison_tag_terms": "encephalitis;encephalitis;encephalitis;encephalitis;encephalitis",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "b1bf27f3029f",
+      "raw_text": "Classify Diffuse Parenchymal Lung Disease. Discuss the clinical features and algorithm for investigation of patients with interstitial lung disease.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM37242;TERM17599;TERM11315;TERM07999;TERM14970",
+      "harrison_tag_terms": "interstitial lung disease;interstitial lung disease;interstitial lung disease;in interstitial lung disease;in interstitial lung disease",
+      "templates_str": "classification;clinical_features"
+    },
+    {
+      "q_id": "92bc9f78532d",
+      "raw_text": "Define and classify vasculitis syndrome. Discuss potential mechanisms of vessel damage in vasculitis syndrome.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM22313;TERM42464;TERM43252;TERM40895;TERM39981",
+      "harrison_tag_terms": "in vasculitis syndromes;in vasculitis syndromes;Vasculitis syndromes;vasculitis;vasculitis",
+      "templates_str": "classification"
+    },
+    {
+      "q_id": "e0eb95beffb2",
+      "raw_text": "Bullous diseases of Skin.",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM31639;TERM21611;TERM13382;TERM18599;TERM15702",
+      "harrison_tag_terms": "bullous;bullous;bullous, A;bullous dermatosis of;bullous pemphigoid",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "4b131d7e6b6a",
+      "raw_text": "Raynaud phenomenon \u2013 Mention types with causes. Discuss in detail Mixed Connective Tissue Disease (MCTD).",
+      "year": 2025,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM32297;TERM35060;TERM33340;TERM44037;TERM08726",
+      "harrison_tag_terms": "in mixed connective tissue disease;in connective tissue disease;Raynaud\u2019s phenomenon in;Raynaud\u2019s phenomenon in;Raynaud\u2019s phenomenon",
+      "templates_str": "general_essay"
+    }
+  ]
+}

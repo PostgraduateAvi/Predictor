@@ -1,0 +1,668 @@
+{
+  "paper_id": 1,
+  "generated_at": "2026-02-06T04:51:19.215715+00:00",
+  "high_confidence": [
+    {
+      "topic_id": "DOMAIN:GENERAL_MISC",
+      "confidence": 6.6,
+      "backup_questions": [
+        "Define and classify DOMAIN:GENERAL_MISC.",
+        "Discuss the clinical features and management of DOMAIN:GENERAL_MISC.",
+        "Approach to diagnosis of DOMAIN:GENERAL_MISC.",
+        "Complications and monitoring in DOMAIN:GENERAL_MISC.",
+        "Outline the pathophysiology and treatment of DOMAIN:GENERAL_MISC."
+      ]
+    },
+    {
+      "topic_id": "TERM32454",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify metabolism.",
+        "Discuss the clinical features and management of metabolism.",
+        "Approach to diagnosis of metabolism.",
+        "Complications and monitoring in metabolism.",
+        "Outline the pathophysiology and treatment of metabolism."
+      ]
+    },
+    {
+      "topic_id": "TERM06128",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify metabolism in.",
+        "Discuss the clinical features and management of metabolism in.",
+        "Approach to diagnosis of metabolism in.",
+        "Complications and monitoring in metabolism in.",
+        "Outline the pathophysiology and treatment of metabolism in."
+      ]
+    },
+    {
+      "topic_id": "TERM13788",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify inhibitors.",
+        "Discuss the clinical features and management of inhibitors.",
+        "Approach to diagnosis of inhibitors.",
+        "Complications and monitoring in inhibitors.",
+        "Outline the pathophysiology and treatment of inhibitors."
+      ]
+    },
+    {
+      "topic_id": "TERM43160",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify inhibitors.",
+        "Discuss the clinical features and management of inhibitors.",
+        "Approach to diagnosis of inhibitors.",
+        "Complications and monitoring in inhibitors.",
+        "Outline the pathophysiology and treatment of inhibitors."
+      ]
+    },
+    {
+      "topic_id": "TERM29302",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify inhibitors.",
+        "Discuss the clinical features and management of inhibitors.",
+        "Approach to diagnosis of inhibitors.",
+        "Complications and monitoring in inhibitors.",
+        "Outline the pathophysiology and treatment of inhibitors."
+      ]
+    },
+    {
+      "topic_id": "TERM31151",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify water and electrolyte content of.",
+        "Discuss the clinical features and management of water and electrolyte content of.",
+        "Approach to diagnosis of water and electrolyte content of.",
+        "Complications and monitoring in water and electrolyte content of.",
+        "Outline the pathophysiology and treatment of water and electrolyte content of."
+      ]
+    },
+    {
+      "topic_id": "TERM13171",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Electrolyte disturbances.",
+        "Discuss the clinical features and management of Electrolyte disturbances.",
+        "Approach to diagnosis of Electrolyte disturbances.",
+        "Complications and monitoring in Electrolyte disturbances.",
+        "Outline the pathophysiology and treatment of Electrolyte disturbances."
+      ]
+    },
+    {
+      "topic_id": "TERM15515",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify electrolyte disturbances.",
+        "Discuss the clinical features and management of electrolyte disturbances.",
+        "Approach to diagnosis of electrolyte disturbances.",
+        "Complications and monitoring in electrolyte disturbances.",
+        "Outline the pathophysiology and treatment of electrolyte disturbances."
+      ]
+    },
+    {
+      "topic_id": "TERM43611",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify drug-induced.",
+        "Discuss the clinical features and management of drug-induced.",
+        "Approach to diagnosis of drug-induced.",
+        "Complications and monitoring in drug-induced.",
+        "Outline the pathophysiology and treatment of drug-induced."
+      ]
+    },
+    {
+      "topic_id": "TERM18932",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify drug-induced.",
+        "Discuss the clinical features and management of drug-induced.",
+        "Approach to diagnosis of drug-induced.",
+        "Complications and monitoring in drug-induced.",
+        "Outline the pathophysiology and treatment of drug-induced."
+      ]
+    },
+    {
+      "topic_id": "TERM42617",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify in bilirubin metabolism.",
+        "Discuss the clinical features and management of in bilirubin metabolism.",
+        "Approach to diagnosis of in bilirubin metabolism.",
+        "Complications and monitoring in in bilirubin metabolism.",
+        "Outline the pathophysiology and treatment of in bilirubin metabolism."
+      ]
+    },
+    {
+      "topic_id": "TERM27707",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify course of.",
+        "Discuss the clinical features and management of course of.",
+        "Approach to diagnosis of course of.",
+        "Complications and monitoring in course of.",
+        "Outline the pathophysiology and treatment of course of."
+      ]
+    },
+    {
+      "topic_id": "TERM39834",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify course of.",
+        "Discuss the clinical features and management of course of.",
+        "Approach to diagnosis of course of.",
+        "Complications and monitoring in course of.",
+        "Outline the pathophysiology and treatment of course of."
+      ]
+    },
+    {
+      "topic_id": "TERM29084",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify course of.",
+        "Discuss the clinical features and management of course of.",
+        "Approach to diagnosis of course of.",
+        "Complications and monitoring in course of.",
+        "Outline the pathophysiology and treatment of course of."
+      ]
+    },
+    {
+      "topic_id": "TERM19267",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify course of.",
+        "Discuss the clinical features and management of course of.",
+        "Approach to diagnosis of course of.",
+        "Complications and monitoring in course of.",
+        "Outline the pathophysiology and treatment of course of."
+      ]
+    },
+    {
+      "topic_id": "TERM17788",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify facial nerve disorders.",
+        "Discuss the clinical features and management of facial nerve disorders.",
+        "Approach to diagnosis of facial nerve disorders.",
+        "Complications and monitoring in facial nerve disorders.",
+        "Outline the pathophysiology and treatment of facial nerve disorders."
+      ]
+    },
+    {
+      "topic_id": "TERM22166",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in thyroid hormone synthesis.",
+        "Discuss the clinical features and management of in thyroid hormone synthesis.",
+        "Approach to diagnosis of in thyroid hormone synthesis.",
+        "Complications and monitoring in in thyroid hormone synthesis.",
+        "Outline the pathophysiology and treatment of in thyroid hormone synthesis."
+      ]
+    },
+    {
+      "topic_id": "TERM10859",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in thyroid hormone synthesis.",
+        "Discuss the clinical features and management of in thyroid hormone synthesis.",
+        "Approach to diagnosis of in thyroid hormone synthesis.",
+        "Complications and monitoring in in thyroid hormone synthesis.",
+        "Outline the pathophysiology and treatment of in thyroid hormone synthesis."
+      ]
+    },
+    {
+      "topic_id": "TERM41654",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in thyroid hormone synthesis.",
+        "Discuss the clinical features and management of in thyroid hormone synthesis.",
+        "Approach to diagnosis of in thyroid hormone synthesis.",
+        "Complications and monitoring in in thyroid hormone synthesis.",
+        "Outline the pathophysiology and treatment of in thyroid hormone synthesis."
+      ]
+    },
+    {
+      "topic_id": "TERM11931",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify synthesis of.",
+        "Discuss the clinical features and management of synthesis of.",
+        "Approach to diagnosis of synthesis of.",
+        "Complications and monitoring in synthesis of.",
+        "Outline the pathophysiology and treatment of synthesis of."
+      ]
+    },
+    {
+      "topic_id": "TERM40557",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify synthesis of.",
+        "Discuss the clinical features and management of synthesis of.",
+        "Approach to diagnosis of synthesis of.",
+        "Complications and monitoring in synthesis of.",
+        "Outline the pathophysiology and treatment of synthesis of."
+      ]
+    },
+    {
+      "topic_id": "TERM02890",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify metabolism of.",
+        "Discuss the clinical features and management of metabolism of.",
+        "Approach to diagnosis of metabolism of.",
+        "Complications and monitoring in metabolism of.",
+        "Outline the pathophysiology and treatment of metabolism of."
+      ]
+    },
+    {
+      "topic_id": "TERM10703",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify metabolism of.",
+        "Discuss the clinical features and management of metabolism of.",
+        "Approach to diagnosis of metabolism of.",
+        "Complications and monitoring in metabolism of.",
+        "Outline the pathophysiology and treatment of metabolism of."
+      ]
+    },
+    {
+      "topic_id": "TERM12036",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify metabolism of.",
+        "Discuss the clinical features and management of metabolism of.",
+        "Approach to diagnosis of metabolism of.",
+        "Complications and monitoring in metabolism of.",
+        "Outline the pathophysiology and treatment of metabolism of."
+      ]
+    },
+    {
+      "topic_id": "TERM20801",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify ACE inhibitors.",
+        "Discuss the clinical features and management of ACE inhibitors.",
+        "Approach to diagnosis of ACE inhibitors.",
+        "Complications and monitoring in ACE inhibitors.",
+        "Outline the pathophysiology and treatment of ACE inhibitors."
+      ]
+    },
+    {
+      "topic_id": "TERM29623",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify ACE inhibitors.",
+        "Discuss the clinical features and management of ACE inhibitors.",
+        "Approach to diagnosis of ACE inhibitors.",
+        "Complications and monitoring in ACE inhibitors.",
+        "Outline the pathophysiology and treatment of ACE inhibitors."
+      ]
+    },
+    {
+      "topic_id": "TERM44473",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify life cycle of.",
+        "Discuss the clinical features and management of life cycle of.",
+        "Approach to diagnosis of life cycle of.",
+        "Complications and monitoring in life cycle of.",
+        "Outline the pathophysiology and treatment of life cycle of."
+      ]
+    },
+    {
+      "topic_id": "TERM35960",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify life cycle of.",
+        "Discuss the clinical features and management of life cycle of.",
+        "Approach to diagnosis of life cycle of.",
+        "Complications and monitoring in life cycle of.",
+        "Outline the pathophysiology and treatment of life cycle of."
+      ]
+    },
+    {
+      "topic_id": "TERM13573",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify life cycle of.",
+        "Discuss the clinical features and management of life cycle of.",
+        "Approach to diagnosis of life cycle of.",
+        "Complications and monitoring in life cycle of.",
+        "Outline the pathophysiology and treatment of life cycle of."
+      ]
+    }
+  ],
+  "coverage_backup": [
+    {
+      "topic_id": "TERM05122",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify malaria.",
+        "Discuss the clinical features and management of malaria.",
+        "Approach to diagnosis of malaria.",
+        "Complications and monitoring in malaria.",
+        "Outline the pathophysiology and treatment of malaria."
+      ]
+    },
+    {
+      "topic_id": "TERM08839",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify malaria.",
+        "Discuss the clinical features and management of malaria.",
+        "Approach to diagnosis of malaria.",
+        "Complications and monitoring in malaria.",
+        "Outline the pathophysiology and treatment of malaria."
+      ]
+    },
+    {
+      "topic_id": "TERM41345",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in anemia evaluation.",
+        "Discuss the clinical features and management of in anemia evaluation.",
+        "Approach to diagnosis of in anemia evaluation.",
+        "Complications and monitoring in in anemia evaluation.",
+        "Outline the pathophysiology and treatment of in anemia evaluation."
+      ]
+    },
+    {
+      "topic_id": "TERM12202",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify evaluation of.",
+        "Discuss the clinical features and management of evaluation of.",
+        "Approach to diagnosis of evaluation of.",
+        "Complications and monitoring in evaluation of.",
+        "Outline the pathophysiology and treatment of evaluation of."
+      ]
+    },
+    {
+      "topic_id": "TERM20717",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify evaluation of.",
+        "Discuss the clinical features and management of evaluation of.",
+        "Approach to diagnosis of evaluation of.",
+        "Complications and monitoring in evaluation of.",
+        "Outline the pathophysiology and treatment of evaluation of."
+      ]
+    },
+    {
+      "topic_id": "TERM05335",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify evaluation of.",
+        "Discuss the clinical features and management of evaluation of.",
+        "Approach to diagnosis of evaluation of.",
+        "Complications and monitoring in evaluation of.",
+        "Outline the pathophysiology and treatment of evaluation of."
+      ]
+    },
+    {
+      "topic_id": "TERM28165",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify evaluation of.",
+        "Discuss the clinical features and management of evaluation of.",
+        "Approach to diagnosis of evaluation of.",
+        "Complications and monitoring in evaluation of.",
+        "Outline the pathophysiology and treatment of evaluation of."
+      ]
+    },
+    {
+      "topic_id": "TERM11598",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify nutrition therapy in.",
+        "Discuss the clinical features and management of nutrition therapy in.",
+        "Approach to diagnosis of nutrition therapy in.",
+        "Complications and monitoring in nutrition therapy in.",
+        "Outline the pathophysiology and treatment of nutrition therapy in."
+      ]
+    },
+    {
+      "topic_id": "TERM22063",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in medical disorders.",
+        "Discuss the clinical features and management of in medical disorders.",
+        "Approach to diagnosis of in medical disorders.",
+        "Complications and monitoring in in medical disorders.",
+        "Outline the pathophysiology and treatment of in medical disorders."
+      ]
+    },
+    {
+      "topic_id": "TERM21992",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify nutritional therapies.",
+        "Discuss the clinical features and management of nutritional therapies.",
+        "Approach to diagnosis of nutritional therapies.",
+        "Complications and monitoring in nutritional therapies.",
+        "Outline the pathophysiology and treatment of nutritional therapies."
+      ]
+    },
+    {
+      "topic_id": "TERM23183",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Kidney.",
+        "Discuss the clinical features and management of Kidney.",
+        "Approach to diagnosis of Kidney.",
+        "Complications and monitoring in Kidney.",
+        "Outline the pathophysiology and treatment of Kidney."
+      ]
+    },
+    {
+      "topic_id": "TERM38495",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify kidney.",
+        "Discuss the clinical features and management of kidney.",
+        "Approach to diagnosis of kidney.",
+        "Complications and monitoring in kidney.",
+        "Outline the pathophysiology and treatment of kidney."
+      ]
+    },
+    {
+      "topic_id": "TERM05786",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Cachexia.",
+        "Discuss the clinical features and management of Cachexia.",
+        "Approach to diagnosis of Cachexia.",
+        "Complications and monitoring in Cachexia.",
+        "Outline the pathophysiology and treatment of Cachexia."
+      ]
+    },
+    {
+      "topic_id": "TERM06497",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Cardiac cachexia.",
+        "Discuss the clinical features and management of Cardiac cachexia.",
+        "Approach to diagnosis of Cardiac cachexia.",
+        "Complications and monitoring in Cardiac cachexia.",
+        "Outline the pathophysiology and treatment of Cardiac cachexia."
+      ]
+    },
+    {
+      "topic_id": "TERM05784",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Cache valley virus.",
+        "Discuss the clinical features and management of Cache valley virus.",
+        "Approach to diagnosis of Cache valley virus.",
+        "Complications and monitoring in Cache valley virus.",
+        "Outline the pathophysiology and treatment of Cache valley virus."
+      ]
+    },
+    {
+      "topic_id": "TERM05781",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Cachectic myopathy.",
+        "Discuss the clinical features and management of Cachectic myopathy.",
+        "Approach to diagnosis of Cachectic myopathy.",
+        "Complications and monitoring in Cachectic myopathy.",
+        "Outline the pathophysiology and treatment of Cachectic myopathy."
+      ]
+    },
+    {
+      "topic_id": "TERM00093",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for hypokalemic periodic paralysis.",
+        "Discuss the clinical features and management of for hypokalemic periodic paralysis.",
+        "Approach to diagnosis of for hypokalemic periodic paralysis.",
+        "Complications and monitoring in for hypokalemic periodic paralysis.",
+        "Outline the pathophysiology and treatment of for hypokalemic periodic paralysis."
+      ]
+    },
+    {
+      "topic_id": "TERM33760",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for hypokalemic periodic paralysis.",
+        "Discuss the clinical features and management of for hypokalemic periodic paralysis.",
+        "Approach to diagnosis of for hypokalemic periodic paralysis.",
+        "Complications and monitoring in for hypokalemic periodic paralysis.",
+        "Outline the pathophysiology and treatment of for hypokalemic periodic paralysis."
+      ]
+    },
+    {
+      "topic_id": "TERM26823",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for hyperkalemic periodic paralysis.",
+        "Discuss the clinical features and management of for hyperkalemic periodic paralysis.",
+        "Approach to diagnosis of for hyperkalemic periodic paralysis.",
+        "Complications and monitoring in for hyperkalemic periodic paralysis.",
+        "Outline the pathophysiology and treatment of for hyperkalemic periodic paralysis."
+      ]
+    },
+    {
+      "topic_id": "TERM00090",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify for hyperkalemic periodic paralysis.",
+        "Discuss the clinical features and management of for hyperkalemic periodic paralysis.",
+        "Approach to diagnosis of for hyperkalemic periodic paralysis.",
+        "Complications and monitoring in for hyperkalemic periodic paralysis.",
+        "Outline the pathophysiology and treatment of for hyperkalemic periodic paralysis."
+      ]
+    },
+    {
+      "topic_id": "TERM41374",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify paralysis of.",
+        "Discuss the clinical features and management of paralysis of.",
+        "Approach to diagnosis of paralysis of.",
+        "Complications and monitoring in paralysis of.",
+        "Outline the pathophysiology and treatment of paralysis of."
+      ]
+    },
+    {
+      "topic_id": "TERM38041",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify recurrent.",
+        "Discuss the clinical features and management of recurrent.",
+        "Approach to diagnosis of recurrent.",
+        "Complications and monitoring in recurrent.",
+        "Outline the pathophysiology and treatment of recurrent."
+      ]
+    },
+    {
+      "topic_id": "TERM30255",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify recurrent.",
+        "Discuss the clinical features and management of recurrent.",
+        "Approach to diagnosis of recurrent.",
+        "Complications and monitoring in recurrent.",
+        "Outline the pathophysiology and treatment of recurrent."
+      ]
+    },
+    {
+      "topic_id": "TERM19166",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify recurrent.",
+        "Discuss the clinical features and management of recurrent.",
+        "Approach to diagnosis of recurrent.",
+        "Complications and monitoring in recurrent.",
+        "Outline the pathophysiology and treatment of recurrent."
+      ]
+    },
+    {
+      "topic_id": "TERM39447",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify recurrent.",
+        "Discuss the clinical features and management of recurrent.",
+        "Approach to diagnosis of recurrent.",
+        "Complications and monitoring in recurrent.",
+        "Outline the pathophysiology and treatment of recurrent."
+      ]
+    },
+    {
+      "topic_id": "TERM42829",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify recurrent.",
+        "Discuss the clinical features and management of recurrent.",
+        "Approach to diagnosis of recurrent.",
+        "Complications and monitoring in recurrent.",
+        "Outline the pathophysiology and treatment of recurrent."
+      ]
+    },
+    {
+      "topic_id": "TERM22607",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify metabolism of.",
+        "Discuss the clinical features and management of metabolism of.",
+        "Approach to diagnosis of metabolism of.",
+        "Complications and monitoring in metabolism of.",
+        "Outline the pathophysiology and treatment of metabolism of."
+      ]
+    },
+    {
+      "topic_id": "TERM26825",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify metabolism of.",
+        "Discuss the clinical features and management of metabolism of.",
+        "Approach to diagnosis of metabolism of.",
+        "Complications and monitoring in metabolism of.",
+        "Outline the pathophysiology and treatment of metabolism of."
+      ]
+    },
+    {
+      "topic_id": "TERM03833",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify metabolism of.",
+        "Discuss the clinical features and management of metabolism of.",
+        "Approach to diagnosis of metabolism of.",
+        "Complications and monitoring in metabolism of.",
+        "Outline the pathophysiology and treatment of metabolism of."
+      ]
+    },
+    {
+      "topic_id": "TERM04809",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify Bilirubin.",
+        "Discuss the clinical features and management of Bilirubin.",
+        "Approach to diagnosis of Bilirubin.",
+        "Complications and monitoring in Bilirubin.",
+        "Outline the pathophysiology and treatment of Bilirubin."
+      ]
+    }
+  ]
+}

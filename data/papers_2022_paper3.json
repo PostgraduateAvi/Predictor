@@ -1,0 +1,116 @@
+{
+  "year": 2022,
+  "paper_id": 3,
+  "questions": [
+    {
+      "q_id": "ebcb7201956e",
+      "raw_text": "Microvascular angina (Cardiac syndrome X )",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM26835;TERM01901;TERM39863;TERM09892;TERM22889",
+      "harrison_tag_terms": "Microvascular angina;microvascular;microvascular thrombotic crisis in;angina;angina",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "5413b9caa12e",
+      "raw_text": "Pulmonary rehabilitation",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM35327;TERM08577;TERM28944;TERM00978;TERM43598",
+      "harrison_tag_terms": "Pulmonary rehabilitation;pulmonary rehabilitation;rehabilitation for;rehabilitation for;Vestibular rehabilitation therapy",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "90d23fd96dca",
+      "raw_text": "Hyperosmolar hyperglycaemic syndrome",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM20505;TERM19501;TERM11584;TERM09603;TERM30396",
+      "harrison_tag_terms": "hyperglycemic hyperosmolar state;HHS (hyperglycemic hyperosmolar state);hyperglycemic hypermolar state;hyperglycemic hemichorea, A;Osmolar gap",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "bd067cd4e712",
+      "raw_text": "Neutropenic Enterocolitis",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM08723;TERM05926;TERM29177;TERM42493;TERM13713",
+      "harrison_tag_terms": "neutropenic enterocolitis;neutropenic enterocolitis;Neutropenic enterocolitis (typhilitis);Typhilitis (neutropenic enterocolitis);neutropenic",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "ef5cc1f27f4d",
+      "raw_text": "Light chain-associated renal disorders",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM21876;TERM08183;TERM00405;TERM20888;TERM20680",
+      "harrison_tag_terms": "disorders associated with;disorders associated with;disorders associated with;disorders associated with;disorders associated with",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "66474bac7ebf",
+      "raw_text": "Myelodysplastic syndromes",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM03466;TERM28256;TERM05048;TERM41657;TERM28208",
+      "harrison_tag_terms": "myelodysplastic syndromes;myelodysplastic syndromes;in myelodysplastic syndromes;in myelodysplastic syndromes;Myelodysplastic syndromes (MDS)",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "f33b3033c44f",
+      "raw_text": "Avascular necrosis",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM06133;TERM07480;TERM18881;TERM09218;TERM00455",
+      "harrison_tag_terms": "necrosis in;Cell necrosis;skin necrosis;skin necrosis;fat necrosis",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "239eba676fdb",
+      "raw_text": "Cerebral Salt-Wasting Syndrome",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM37093;TERM09675;TERM07556;TERM39847;TERM03362",
+      "harrison_tag_terms": "Salt-wasting disorders;salt-wasting crisis;Cerebral salt wasting;vs. cerebral salt wasting;cerebral",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "13732d060d6b",
+      "raw_text": "Geriatric psychiatry",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM04054;TERM44388;TERM42158;TERM22069;TERM16625",
+      "harrison_tag_terms": "psychiatric;psychiatric;in psychiatric disorders;psychiatric disorders and;Geriatric care",
+      "templates_str": "general_essay"
+    },
+    {
+      "q_id": "42b347f6645a",
+      "raw_text": "Palliative pain management",
+      "year": 2022,
+      "paper_id": 3,
+      "marks": null,
+      "tags": [],
+      "harrison_tag_ids": "TERM34522;TERM06262;TERM05966;TERM05346;TERM13467",
+      "harrison_tag_terms": "pain management;palliative;palliative;palliative care;palliative care",
+      "templates_str": "management"
+    }
+  ]
+}

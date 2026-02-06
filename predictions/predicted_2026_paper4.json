@@ -1,0 +1,668 @@
+{
+  "paper_id": 4,
+  "generated_at": "2026-02-06T04:51:19.223538+00:00",
+  "high_confidence": [
+    {
+      "topic_id": "DOMAIN:GENERAL_MISC",
+      "confidence": 10.55,
+      "backup_questions": [
+        "Define and classify DOMAIN:GENERAL_MISC.",
+        "Discuss the clinical features and management of DOMAIN:GENERAL_MISC.",
+        "Approach to diagnosis of DOMAIN:GENERAL_MISC.",
+        "Complications and monitoring in DOMAIN:GENERAL_MISC.",
+        "Outline the pathophysiology and treatment of DOMAIN:GENERAL_MISC."
+      ]
+    },
+    {
+      "topic_id": "TERM06532",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify coronary artery disease and.",
+        "Discuss the clinical features and management of coronary artery disease and.",
+        "Approach to diagnosis of coronary artery disease and.",
+        "Complications and monitoring in coronary artery disease and.",
+        "Outline the pathophysiology and treatment of coronary artery disease and."
+      ]
+    },
+    {
+      "topic_id": "TERM39188",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify coronary artery.",
+        "Discuss the clinical features and management of coronary artery.",
+        "Approach to diagnosis of coronary artery.",
+        "Complications and monitoring in coronary artery.",
+        "Outline the pathophysiology and treatment of coronary artery."
+      ]
+    },
+    {
+      "topic_id": "TERM06741",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify coronary artery.",
+        "Discuss the clinical features and management of coronary artery.",
+        "Approach to diagnosis of coronary artery.",
+        "Complications and monitoring in coronary artery.",
+        "Outline the pathophysiology and treatment of coronary artery."
+      ]
+    },
+    {
+      "topic_id": "TERM09877",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Coronary artery disease (CAD).",
+        "Discuss the clinical features and management of Coronary artery disease (CAD).",
+        "Approach to diagnosis of Coronary artery disease (CAD).",
+        "Complications and monitoring in Coronary artery disease (CAD).",
+        "Outline the pathophysiology and treatment of Coronary artery disease (CAD)."
+      ]
+    },
+    {
+      "topic_id": "TERM22105",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify COVID-19 and.",
+        "Discuss the clinical features and management of COVID-19 and.",
+        "Approach to diagnosis of COVID-19 and.",
+        "Complications and monitoring in COVID-19 and.",
+        "Outline the pathophysiology and treatment of COVID-19 and."
+      ]
+    },
+    {
+      "topic_id": "TERM09597",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify guidelines for.",
+        "Discuss the clinical features and management of guidelines for.",
+        "Approach to diagnosis of guidelines for.",
+        "Complications and monitoring in guidelines for.",
+        "Outline the pathophysiology and treatment of guidelines for."
+      ]
+    },
+    {
+      "topic_id": "TERM28986",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify guidelines for.",
+        "Discuss the clinical features and management of guidelines for.",
+        "Approach to diagnosis of guidelines for.",
+        "Complications and monitoring in guidelines for.",
+        "Outline the pathophysiology and treatment of guidelines for."
+      ]
+    },
+    {
+      "topic_id": "TERM09731",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify care guidelines for.",
+        "Discuss the clinical features and management of care guidelines for.",
+        "Approach to diagnosis of care guidelines for.",
+        "Complications and monitoring in care guidelines for.",
+        "Outline the pathophysiology and treatment of care guidelines for."
+      ]
+    },
+    {
+      "topic_id": "TERM34484",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify for hypertension.",
+        "Discuss the clinical features and management of for hypertension.",
+        "Approach to diagnosis of for hypertension.",
+        "Complications and monitoring in for hypertension.",
+        "Outline the pathophysiology and treatment of for hypertension."
+      ]
+    },
+    {
+      "topic_id": "TERM33844",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify for hypertension.",
+        "Discuss the clinical features and management of for hypertension.",
+        "Approach to diagnosis of for hypertension.",
+        "Complications and monitoring in for hypertension.",
+        "Outline the pathophysiology and treatment of for hypertension."
+      ]
+    },
+    {
+      "topic_id": "TERM14612",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify for diabetes mellitus.",
+        "Discuss the clinical features and management of for diabetes mellitus.",
+        "Approach to diagnosis of for diabetes mellitus.",
+        "Complications and monitoring in for diabetes mellitus.",
+        "Outline the pathophysiology and treatment of for diabetes mellitus."
+      ]
+    },
+    {
+      "topic_id": "TERM38517",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify for diabetes mellitus.",
+        "Discuss the clinical features and management of for diabetes mellitus.",
+        "Approach to diagnosis of for diabetes mellitus.",
+        "Complications and monitoring in for diabetes mellitus.",
+        "Outline the pathophysiology and treatment of for diabetes mellitus."
+      ]
+    },
+    {
+      "topic_id": "TERM29815",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify for diabetes mellitus.",
+        "Discuss the clinical features and management of for diabetes mellitus.",
+        "Approach to diagnosis of for diabetes mellitus.",
+        "Complications and monitoring in for diabetes mellitus.",
+        "Outline the pathophysiology and treatment of for diabetes mellitus."
+      ]
+    },
+    {
+      "topic_id": "TERM44333",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify diabetes mellitus.",
+        "Discuss the clinical features and management of diabetes mellitus.",
+        "Approach to diagnosis of diabetes mellitus.",
+        "Complications and monitoring in diabetes mellitus.",
+        "Outline the pathophysiology and treatment of diabetes mellitus."
+      ]
+    },
+    {
+      "topic_id": "TERM16683",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify diabetes mellitus.",
+        "Discuss the clinical features and management of diabetes mellitus.",
+        "Approach to diagnosis of diabetes mellitus.",
+        "Complications and monitoring in diabetes mellitus.",
+        "Outline the pathophysiology and treatment of diabetes mellitus."
+      ]
+    },
+    {
+      "topic_id": "TERM04376",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Bempedoic acid.",
+        "Discuss the clinical features and management of Bempedoic acid.",
+        "Approach to diagnosis of Bempedoic acid.",
+        "Complications and monitoring in Bempedoic acid.",
+        "Outline the pathophysiology and treatment of Bempedoic acid."
+      ]
+    },
+    {
+      "topic_id": "TERM24257",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Lipoic acid.",
+        "Discuss the clinical features and management of Lipoic acid.",
+        "Approach to diagnosis of Lipoic acid.",
+        "Complications and monitoring in Lipoic acid.",
+        "Outline the pathophysiology and treatment of Lipoic acid."
+      ]
+    },
+    {
+      "topic_id": "TERM34095",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify retinoic acid in.",
+        "Discuss the clinical features and management of retinoic acid in.",
+        "Approach to diagnosis of retinoic acid in.",
+        "Complications and monitoring in retinoic acid in.",
+        "Outline the pathophysiology and treatment of retinoic acid in."
+      ]
+    },
+    {
+      "topic_id": "TERM28815",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify uric acid.",
+        "Discuss the clinical features and management of uric acid.",
+        "Approach to diagnosis of uric acid.",
+        "Complications and monitoring in uric acid.",
+        "Outline the pathophysiology and treatment of uric acid."
+      ]
+    },
+    {
+      "topic_id": "TERM28731",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify uric acid.",
+        "Discuss the clinical features and management of uric acid.",
+        "Approach to diagnosis of uric acid.",
+        "Complications and monitoring in uric acid.",
+        "Outline the pathophysiology and treatment of uric acid."
+      ]
+    },
+    {
+      "topic_id": "TERM29413",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Nintedanib.",
+        "Discuss the clinical features and management of Nintedanib.",
+        "Approach to diagnosis of Nintedanib.",
+        "Complications and monitoring in Nintedanib.",
+        "Outline the pathophysiology and treatment of Nintedanib."
+      ]
+    },
+    {
+      "topic_id": "TERM16145",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify therapeutic.",
+        "Discuss the clinical features and management of therapeutic.",
+        "Approach to diagnosis of therapeutic.",
+        "Complications and monitoring in therapeutic.",
+        "Outline the pathophysiology and treatment of therapeutic."
+      ]
+    },
+    {
+      "topic_id": "TERM09350",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify therapeutic.",
+        "Discuss the clinical features and management of therapeutic.",
+        "Approach to diagnosis of therapeutic.",
+        "Complications and monitoring in therapeutic.",
+        "Outline the pathophysiology and treatment of therapeutic."
+      ]
+    },
+    {
+      "topic_id": "TERM21186",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify therapeutic.",
+        "Discuss the clinical features and management of therapeutic.",
+        "Approach to diagnosis of therapeutic.",
+        "Complications and monitoring in therapeutic.",
+        "Outline the pathophysiology and treatment of therapeutic."
+      ]
+    },
+    {
+      "topic_id": "TERM05610",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify therapeutic.",
+        "Discuss the clinical features and management of therapeutic.",
+        "Approach to diagnosis of therapeutic.",
+        "Complications and monitoring in therapeutic.",
+        "Outline the pathophysiology and treatment of therapeutic."
+      ]
+    },
+    {
+      "topic_id": "TERM05255",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify therapeutic.",
+        "Discuss the clinical features and management of therapeutic.",
+        "Approach to diagnosis of therapeutic.",
+        "Complications and monitoring in therapeutic.",
+        "Outline the pathophysiology and treatment of therapeutic."
+      ]
+    },
+    {
+      "topic_id": "TERM11758",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Diagnostic tests.",
+        "Discuss the clinical features and management of Diagnostic tests.",
+        "Approach to diagnosis of Diagnostic tests.",
+        "Complications and monitoring in Diagnostic tests.",
+        "Outline the pathophysiology and treatment of Diagnostic tests."
+      ]
+    },
+    {
+      "topic_id": "TERM25504",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify diagnostic.",
+        "Discuss the clinical features and management of diagnostic.",
+        "Approach to diagnosis of diagnostic.",
+        "Complications and monitoring in diagnostic.",
+        "Outline the pathophysiology and treatment of diagnostic."
+      ]
+    },
+    {
+      "topic_id": "TERM01396",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Alzheimer\u2019s disease (AD).",
+        "Discuss the clinical features and management of Alzheimer\u2019s disease (AD).",
+        "Approach to diagnosis of Alzheimer\u2019s disease (AD).",
+        "Complications and monitoring in Alzheimer\u2019s disease (AD).",
+        "Outline the pathophysiology and treatment of Alzheimer\u2019s disease (AD)."
+      ]
+    }
+  ],
+  "coverage_backup": [
+    {
+      "topic_id": "TERM22818",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify diagnostic criteria for.",
+        "Discuss the clinical features and management of diagnostic criteria for.",
+        "Approach to diagnosis of diagnostic criteria for.",
+        "Complications and monitoring in diagnostic criteria for.",
+        "Outline the pathophysiology and treatment of diagnostic criteria for."
+      ]
+    },
+    {
+      "topic_id": "TERM20297",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify diagnostic markers of.",
+        "Discuss the clinical features and management of diagnostic markers of.",
+        "Approach to diagnosis of diagnostic markers of.",
+        "Complications and monitoring in diagnostic markers of.",
+        "Outline the pathophysiology and treatment of diagnostic markers of."
+      ]
+    },
+    {
+      "topic_id": "TERM18114",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify surveillance.",
+        "Discuss the clinical features and management of surveillance.",
+        "Approach to diagnosis of surveillance.",
+        "Complications and monitoring in surveillance.",
+        "Outline the pathophysiology and treatment of surveillance."
+      ]
+    },
+    {
+      "topic_id": "TERM21726",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify surveillance by.",
+        "Discuss the clinical features and management of surveillance by.",
+        "Approach to diagnosis of surveillance by.",
+        "Complications and monitoring in surveillance by.",
+        "Outline the pathophysiology and treatment of surveillance by."
+      ]
+    },
+    {
+      "topic_id": "TERM34496",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify vs. active surveillance, 205\u2013.",
+        "Discuss the clinical features and management of vs. active surveillance, 205\u2013.",
+        "Approach to diagnosis of vs. active surveillance, 205\u2013.",
+        "Complications and monitoring in vs. active surveillance, 205\u2013.",
+        "Outline the pathophysiology and treatment of vs. active surveillance, 205\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM21677",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify public health implications of.",
+        "Discuss the clinical features and management of public health implications of.",
+        "Approach to diagnosis of public health implications of.",
+        "Complications and monitoring in public health implications of.",
+        "Outline the pathophysiology and treatment of public health implications of."
+      ]
+    },
+    {
+      "topic_id": "TERM12905",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify health and.",
+        "Discuss the clinical features and management of health and.",
+        "Approach to diagnosis of health and.",
+        "Complications and monitoring in health and.",
+        "Outline the pathophysiology and treatment of health and."
+      ]
+    },
+    {
+      "topic_id": "TERM25861",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Internet and, 6\u2013.",
+        "Discuss the clinical features and management of Internet and, 6\u2013.",
+        "Approach to diagnosis of Internet and, 6\u2013.",
+        "Complications and monitoring in Internet and, 6\u2013.",
+        "Outline the pathophysiology and treatment of Internet and, 6\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM06136",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify oncogene addiction in.",
+        "Discuss the clinical features and management of oncogene addiction in.",
+        "Approach to diagnosis of oncogene addiction in.",
+        "Complications and monitoring in oncogene addiction in.",
+        "Outline the pathophysiology and treatment of oncogene addiction in."
+      ]
+    },
+    {
+      "topic_id": "TERM30331",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Oncogene addiction.",
+        "Discuss the clinical features and management of Oncogene addiction.",
+        "Approach to diagnosis of Oncogene addiction.",
+        "Complications and monitoring in Oncogene addiction.",
+        "Outline the pathophysiology and treatment of Oncogene addiction."
+      ]
+    },
+    {
+      "topic_id": "TERM31428",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Internet use by, 6\u2013.",
+        "Discuss the clinical features and management of Internet use by, 6\u2013.",
+        "Approach to diagnosis of Internet use by, 6\u2013.",
+        "Complications and monitoring in Internet use by, 6\u2013.",
+        "Outline the pathophysiology and treatment of Internet use by, 6\u2013."
+      ]
+    },
+    {
+      "topic_id": "TERM34212",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify mental health and addiction screening in.",
+        "Discuss the clinical features and management of mental health and addiction screening in.",
+        "Approach to diagnosis of mental health and addiction screening in.",
+        "Complications and monitoring in mental health and addiction screening in.",
+        "Outline the pathophysiology and treatment of mental health and addiction screening in."
+      ]
+    },
+    {
+      "topic_id": "TERM02654",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify valve area.",
+        "Discuss the clinical features and management of valve area.",
+        "Approach to diagnosis of valve area.",
+        "Complications and monitoring in valve area.",
+        "Outline the pathophysiology and treatment of valve area."
+      ]
+    },
+    {
+      "topic_id": "TERM27185",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify valve area.",
+        "Discuss the clinical features and management of valve area.",
+        "Approach to diagnosis of valve area.",
+        "Complications and monitoring in valve area.",
+        "Outline the pathophysiology and treatment of valve area."
+      ]
+    },
+    {
+      "topic_id": "TERM06533",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify valve area.",
+        "Discuss the clinical features and management of valve area.",
+        "Approach to diagnosis of valve area.",
+        "Complications and monitoring in valve area.",
+        "Outline the pathophysiology and treatment of valve area."
+      ]
+    },
+    {
+      "topic_id": "TERM32357",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify Phase response curve (PRC).",
+        "Discuss the clinical features and management of Phase response curve (PRC).",
+        "Approach to diagnosis of Phase response curve (PRC).",
+        "Complications and monitoring in Phase response curve (PRC).",
+        "Outline the pathophysiology and treatment of Phase response curve (PRC)."
+      ]
+    },
+    {
+      "topic_id": "TERM18081",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify biomarkers.",
+        "Discuss the clinical features and management of biomarkers.",
+        "Approach to diagnosis of biomarkers.",
+        "Complications and monitoring in biomarkers.",
+        "Outline the pathophysiology and treatment of biomarkers."
+      ]
+    },
+    {
+      "topic_id": "TERM39400",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify biomarkers.",
+        "Discuss the clinical features and management of biomarkers.",
+        "Approach to diagnosis of biomarkers.",
+        "Complications and monitoring in biomarkers.",
+        "Outline the pathophysiology and treatment of biomarkers."
+      ]
+    },
+    {
+      "topic_id": "TERM00242",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify biomarkers.",
+        "Discuss the clinical features and management of biomarkers.",
+        "Approach to diagnosis of biomarkers.",
+        "Complications and monitoring in biomarkers.",
+        "Outline the pathophysiology and treatment of biomarkers."
+      ]
+    },
+    {
+      "topic_id": "TERM42251",
+      "confidence": 1.6,
+      "backup_questions": [
+        "Define and classify biomarkers.",
+        "Discuss the clinical features and management of biomarkers.",
+        "Approach to diagnosis of biomarkers.",
+        "Complications and monitoring in biomarkers.",
+        "Outline the pathophysiology and treatment of biomarkers."
+      ]
+    },
+    {
+      "topic_id": "TERM40856",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify coronary artery, A.",
+        "Discuss the clinical features and management of coronary artery, A.",
+        "Approach to diagnosis of coronary artery, A.",
+        "Complications and monitoring in coronary artery, A.",
+        "Outline the pathophysiology and treatment of coronary artery, A."
+      ]
+    },
+    {
+      "topic_id": "TERM37342",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify insomnia in.",
+        "Discuss the clinical features and management of insomnia in.",
+        "Approach to diagnosis of insomnia in.",
+        "Complications and monitoring in insomnia in.",
+        "Outline the pathophysiology and treatment of insomnia in."
+      ]
+    },
+    {
+      "topic_id": "TERM34978",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify insomnia in.",
+        "Discuss the clinical features and management of insomnia in.",
+        "Approach to diagnosis of insomnia in.",
+        "Complications and monitoring in insomnia in.",
+        "Outline the pathophysiology and treatment of insomnia in."
+      ]
+    },
+    {
+      "topic_id": "TERM02590",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify insomnia in.",
+        "Discuss the clinical features and management of insomnia in.",
+        "Approach to diagnosis of insomnia in.",
+        "Complications and monitoring in insomnia in.",
+        "Outline the pathophysiology and treatment of insomnia in."
+      ]
+    },
+    {
+      "topic_id": "TERM11332",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify insomnia in.",
+        "Discuss the clinical features and management of insomnia in.",
+        "Approach to diagnosis of insomnia in.",
+        "Complications and monitoring in insomnia in.",
+        "Outline the pathophysiology and treatment of insomnia in."
+      ]
+    },
+    {
+      "topic_id": "TERM11175",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify insomnia in.",
+        "Discuss the clinical features and management of insomnia in.",
+        "Approach to diagnosis of insomnia in.",
+        "Complications and monitoring in insomnia in.",
+        "Outline the pathophysiology and treatment of insomnia in."
+      ]
+    },
+    {
+      "topic_id": "TERM00519",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify phases of.",
+        "Discuss the clinical features and management of phases of.",
+        "Approach to diagnosis of phases of.",
+        "Complications and monitoring in phases of.",
+        "Outline the pathophysiology and treatment of phases of."
+      ]
+    },
+    {
+      "topic_id": "TERM16338",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify clinical trials.",
+        "Discuss the clinical features and management of clinical trials.",
+        "Approach to diagnosis of clinical trials.",
+        "Complications and monitoring in clinical trials.",
+        "Outline the pathophysiology and treatment of clinical trials."
+      ]
+    },
+    {
+      "topic_id": "TERM32460",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify clinical.",
+        "Discuss the clinical features and management of clinical.",
+        "Approach to diagnosis of clinical.",
+        "Complications and monitoring in clinical.",
+        "Outline the pathophysiology and treatment of clinical."
+      ]
+    },
+    {
+      "topic_id": "TERM23109",
+      "confidence": 0.8,
+      "backup_questions": [
+        "Define and classify in clinical drug trials.",
+        "Discuss the clinical features and management of in clinical drug trials.",
+        "Approach to diagnosis of in clinical drug trials.",
+        "Complications and monitoring in in clinical drug trials.",
+        "Outline the pathophysiology and treatment of in clinical drug trials."
+      ]
+    }
+  ]
+}
